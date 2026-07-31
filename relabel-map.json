@@ -138,6 +138,8 @@
       "#CybotCookiebotDialog",
       ".section-ready",
       ".grecaptcha-badge",
+      "#refiner-widget-wrapper",
+      "[id^=batBeacon]",
       ".modal",
       ".social-nav",
       ".site-footer .copyright span:not(:first-child)",
@@ -150,6 +152,8 @@
       "googletagmanager",
       "wpcf7",
       "recaptcha",
+      "refiner",
+      "batBeacon",
       "Cookie",
       "facebook",
       "instagram",
@@ -368,6 +372,15 @@
       "repair_css": "section.pt-4{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(6rem,9vw,8rem) 0 clamp(4rem,8vw,7rem)!important}section.pt-4 h1{font-size:clamp(3rem,5.5vw,6rem)!important;line-height:.95!important;max-width:16ch!important}.rr-contact-form-shell{box-sizing:border-box!important;width:100%!important;margin-top:2.5rem!important;padding:clamp(2rem,5vw,4rem)!important;background:#111922!important}.rr-contact-form{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:1rem!important}.rr-contact-field{display:block!important}.rr-contact-field:has(textarea){grid-column:1/-1!important}.rr-contact-control{box-sizing:border-box!important;width:100%!important;min-height:3.75rem!important;padding:1rem!important;border:1px solid rgba(255,255,255,.42)!important;border-radius:4px!important;background:#fff!important;color:#111922!important;font-family:'IBM Plex Sans',Arial,sans-serif!important;font-size:1rem!important}.rr-contact-form textarea.rr-contact-control{min-height:11rem!important;resize:vertical!important}.rr-contact-form button{grid-column:1/-1!important;justify-self:start!important;border-color:#ff7b2b!important;background:#ff7b2b!important;color:#111922!important}@media(max-width:720px){section.pt-4{width:calc(100% - 32px)!important}.rr-contact-form{grid-template-columns:1fr!important}.rr-contact-field:has(textarea),.rr-contact-form button{grid-column:1!important}.rr-contact-form button{width:100%!important}}"
     },
     "index": {
+      "hero_images": {
+        "situations": "/ours/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsutah-com.jpg",
+        "interest-types": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsutah-com.jpg",
+        "basins": "/ours/basins/mineral-rights-basins-uinta-basin-sellmineralrightsutah-com.jpg",
+        "resources": "/ours/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightsutah-com.jpg",
+        "investing": "/ours/investing/mineral-rights-investing-mineral-rights-as-an-investment-sellmineralrightsutah-com.jpg",
+        "exchange-1031": "/ours/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightsutah-com.jpg",
+        "locations": "/ours/pages/mineral-rights-pages-home-sellmineralrightsutah-com.jpg"
+      },
       "signature": [
         ".section-solutions .cards-grid"
       ],
