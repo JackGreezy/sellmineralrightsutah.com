@@ -1,0 +1,71 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Utah Mineral Rights Sale: Documents Checklist",
+ "metaDescription": "The documents an Uinta or Paradox Basin mineral owner should gather before requesting an offer, and why title clean-up matters more here than elsewhere.",
+ "heroLead": "The single fastest way to move from first phone call to closed transaction is having your paperwork organized before anyone asks for it.",
+ "intro": [
+  "We spend a good portion of every early conversation helping owners figure out what they actually hold, because Utah mineral title has a way of accumulating layers over a few generations — a deed here, a probate there, a name that changed at marriage, a section that turned out to sit against a SITLA state trust boundary nobody mentioned. None of that is unusual, and none of it should scare you off. It just means the paperwork stage benefits from a little preparation.",
+  "Below is the working list we use ourselves. You do not need every item to start a conversation, but having what you can find in one folder will shorten the time between an offer and a closed transaction considerably."
+ ],
+ "sections": [
+  {
+   "heading": "The deed chain",
+   "paragraphs": [
+    "Start with the deed that shows how the minerals came to you or your family — a warranty deed, a mineral deed, or a quitclaim. If you inherited the interest, the deed may be decades old and reference a grantor you never met. That's fine; it's still the anchor document. If you don't have a copy, the county recorder's office in the county where the minerals sit (Duchesne, Uintah, Grand, or San Juan, depending on where your acreage falls) can usually pull a certified copy for a small fee.",
+    "If the interest passed through more than one generation, gather every deed in the chain you can find rather than only the most recent one. Gaps in the chain are common and are usually fixable, but they take time to trace, so surfacing them early keeps a sale on schedule."
+   ]
+  },
+  {
+   "heading": "Probate and heirship records",
+   "paragraphs": [
+    "If you received the interest through inheritance rather than a direct conveyance, you'll need whatever probate order, affidavit of heirship, or small estate affidavit established your ownership. Utah probate on mineral interests can sometimes be handled through a simplified process if the estate was small and uncontested, but if the original owner passed without a will, or if there are multiple heirs who never formally divided the interest, that needs to be resolved — or at least clearly documented — before a sale can close cleanly.",
+    "Multiple-heir situations are extremely common on interests that trace back to original homestead or allotment land in the Uinta Basin. If you're one of several siblings or cousins who each hold a fraction, it helps to know who else is on the deed before you start."
+   ]
+  },
+  {
+   "heading": "Recent royalty statements and any lease",
+   "paragraphs": [
+    "Bring the last six to twelve months of royalty statements if the interest is currently producing, along with a copy of any active oil and gas lease. The statements show real volume and price history, which grounds any conversation about value in fact rather than guesswork. The lease tells a buyer what royalty rate, primary term, and any special provisions apply, which matters directly to what the interest is worth to acquire.",
+    "If the interest has never produced, or the lease expired years ago, that's useful information too — say so plainly rather than leaving it out, since it changes how the interest should be evaluated."
+   ]
+  },
+  {
+   "heading": "A note on state trust and split-estate parcels",
+   "paragraphs": [
+    "If your acreage borders or overlaps a SITLA state trust section, or sits on federal split estate where the surface and minerals were severed at different times, mention it up front. It doesn't disqualify a sale, but a buyer will want to understand the boundary and any prior state leasing history on the adjoining section before finalizing a number, and having that context early avoids a delay later in the process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I can't find my original deed?",
+   "answer": "The county recorder's office where the minerals are located can typically provide a certified copy for a small fee. Tell us the county and we can point you toward the right office."
+  },
+  {
+   "question": "Do I need a lawyer to sell my mineral rights?",
+   "answer": "Not always, but if your title involves multiple heirs, an unresolved probate, or a boundary question against state trust land, an attorney can save time. We're happy to work alongside whoever you choose to consult."
+  },
+  {
+   "question": "What if I only own a small fractional interest?",
+   "answer": "Small fractional interests, often from an original family allotment split among many heirs over generations, are common in this basin. Bring whatever documentation you have and we'll help identify what's still needed."
+  },
+  {
+   "question": "Is there a deadline to gather all this before I can get an offer?",
+   "answer": "No. We can give you a preliminary range based on limited information and refine it as documents come in. A complete file just moves the closing process faster once you decide to proceed."
+  },
+  {
+   "question": "What if my name on the deed doesn't match my current legal name?",
+   "answer": "Common after marriage, divorce, or a legal name change. Bring documentation of the name change, such as a marriage certificate or court order, so the closing paperwork can tie your current identity back to the deed on record."
+  }
+ ],
+ "wordCount": 868,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsutah-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

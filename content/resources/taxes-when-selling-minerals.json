@@ -1,0 +1,75 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes When You Sell Utah Mineral Rights: The Basics",
+ "metaDescription": "How the sale of Utah mineral rights is typically taxed, basis and holding period basics, and why a CPA conversation belongs early in the process.",
+ "heroLead": "The tax question comes up in nearly every conversation we have, usually right after the value question, and it deserves a straight answer even though we're not the ones who can give you a final one.",
+ "intro": [
+  "We are a mineral buyer, not a CPA or tax attorney, and nothing here is tax advice for your specific situation. What we can offer is the general framework that applies to most mineral rights sales, so you walk into a conversation with your own tax advisor already understanding the shape of the question, rather than starting from zero.",
+  "The two things that matter most to how a sale is taxed are your basis in the interest and how long you've held it — both of which look different depending on whether you bought the minerals, were gifted them, or inherited them."
+ ],
+ "sections": [
+  {
+   "heading": "Capital gains, in general terms",
+   "paragraphs": [
+    "Selling a mineral interest is typically treated as a sale of a capital asset, meaning any gain above your basis is generally subject to capital gains tax rather than ordinary income tax. Whether that gain is taxed at long-term or short-term rates depends on how long you've held the interest — over a year usually qualifies for the more favorable long-term rate, though your CPA should confirm this against your specific facts, especially around inherited interests.",
+    "Basis is the number that determines the size of the taxable gain, and it's where inherited interests differ meaningfully from purchased ones."
+   ]
+  },
+  {
+   "heading": "Basis on inherited minerals",
+   "paragraphs": [
+    "If you inherited your mineral interest, your basis is generally the fair market value of the minerals at the date of the original owner's death, not what that person originally paid or what the interest was worth decades earlier. This is often called a stepped-up basis, and it can significantly reduce your taxable gain compared to what you might expect, particularly on an interest that's been in a family for a long time.",
+    "The practical challenge is documenting that date-of-death value, especially for interests that were quiet or barely producing at the time. A CPA experienced with mineral estates can often help reconstruct a reasonable valuation using historical production and pricing data if a formal appraisal wasn't done at the time."
+   ]
+  },
+  {
+   "heading": "Basis on purchased or gifted minerals",
+   "paragraphs": [
+    "If you or a prior owner in your chain purchased the minerals, your basis is generally what was paid, adjusted for any depletion previously claimed on royalty income over the years. If the interest was gifted to you during the giver's lifetime rather than inherited at death, your basis is typically carried over from the giver's original basis rather than stepped up — a materially different outcome from inheritance, and one worth flagging to your CPA specifically."
+   ]
+  },
+  {
+   "heading": "Timing and 1031 considerations",
+   "paragraphs": [
+    "Some owners selling a producing mineral interest explore a 1031 exchange into replacement real property to defer the gain, since mineral interests can in some circumstances qualify as like-kind real property under current rules. This is a specialized area with strict deadlines and a qualified intermediary requirement, and it needs to be structured correctly before the sale closes, not after. If this is relevant to you, raise it with your tax advisor well before signing anything.",
+    "Whatever your situation, we'd rather you go into closing with a clear-eyed view of the tax consequences than be surprised the following spring. Talk to your CPA or tax advisor before you sign, not after."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Will I owe taxes when I sell my mineral rights?",
+   "answer": "Most sales generate a capital gain subject to tax, but the specific amount depends on your basis and holding period. Your CPA can calculate this precisely once you know the sale price."
+  },
+  {
+   "question": "What is 'stepped-up basis' and does it apply to me?",
+   "answer": "It generally applies if you inherited the minerals, meaning your basis resets to the fair market value at the date of the original owner's death rather than their original cost. It often significantly reduces the taxable gain on inherited interests."
+  },
+  {
+   "question": "Can I defer taxes on a mineral rights sale with a 1031 exchange?",
+   "answer": "It's possible in some circumstances since mineral interests can qualify as like-kind real property, but the rules are strict and time-sensitive. Confirm your exchange with a qualified intermediary and your tax advisor before closing."
+  },
+  {
+   "question": "Should I talk to a CPA before or after I accept an offer?",
+   "answer": "Before, ideally. Understanding your likely tax outcome can affect whether a partial sale, timing the closing differently, or a 1031 exchange makes more sense for your situation."
+  },
+  {
+   "question": "Does it matter whether the sale involves several heirs splitting the proceeds?",
+   "answer": "Yes. Each heir generally reports their own share of the gain based on their own basis, which for inherited interests is typically each heir's proportional stepped-up value. Coordinate with your CPA so each family member's share is reported correctly."
+  },
+  {
+   "question": "Are there any Utah-specific state tax considerations on top of federal capital gains?",
+   "answer": "Utah generally taxes capital gains as part of ordinary state income tax rather than through a separate mineral-specific tax, but your CPA should confirm how this applies given your full tax picture and residency."
+  }
+ ],
+ "wordCount": 875,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsutah-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

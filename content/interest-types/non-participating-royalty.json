@@ -1,0 +1,69 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI: Non-Participating Royalty Interests in Utah",
+ "metaDescription": "An NPRI pays a share of production but carries no leasing authority. Here's how non-participating royalty interests work for Utah owners and what they're worth.",
+ "heroLead": "A non-participating royalty interest is the cleanest, most passive form of mineral ownership: you receive a share of production, and you have no say whatsoever in leasing decisions.",
+ "intro": [
+  "An NPRI is created when a mineral owner carves out and conveys a royalty share, either to a family member, an investor, or as part of an estate settlement, while keeping (or transferring to someone else) the executive right to lease the underlying minerals. The word 'non-participating' refers specifically to leasing: the NPRI owner doesn't participate in negotiating bonus payments, setting lease terms, or deciding which operator gets to drill. What they do get is a fixed fractional share of production once a well is drilled, regardless of who negotiated the lease or what the bonus was.",
+  "We see NPRIs across Utah most often as the result of a prior generation splitting an estate: one heir received the executive rights and the working relationship with the operator, while another received a pure royalty share with none of the leasing responsibility. Both are legitimate, separately valuable interests, but they behave differently and, importantly, need to be identified correctly before either one is priced."
+ ],
+ "sections": [
+  {
+   "heading": "What an NPRI owner does and doesn't control",
+   "paragraphs": [
+    "Because an NPRI carries no executive right, the owner has no ability to negotiate a better bonus, insist on a higher royalty rate in a future lease, or refuse to allow leasing altogether. Whatever the mineral owner who holds the executive right negotiates, the NPRI owner receives their fixed fractional share of production under those terms. This makes an NPRI genuinely passive — there's no decision-making burden — but it also means the income depends entirely on someone else's leasing judgment.",
+    "This distinction matters most when a lease is up for renewal or renegotiation. An NPRI owner watching a lease term run down has no direct lever to pull; they're dependent on the executive rights holder to act. That's worth understanding clearly if you hold an NPRI and are trying to gauge how much control you actually have over your own income stream."
+   ]
+  },
+  {
+   "heading": "How NPRI value is typically calculated",
+   "paragraphs": [
+    "Valuing an NPRI starts with the fractional royalty rate specified in the conveyance that created it, applied against actual or projected production on the unit. Because the NPRI owner bears none of the drilling or operating costs, the royalty percentage translates fairly directly into income once production begins, which makes NPRIs comparatively straightforward to price once production history exists.",
+    "Where it gets more complicated is confirming exactly what fraction was conveyed and against what base — some older Utah NPRI deeds are written ambiguously enough that a title examiner needs to work through the specific language to confirm whether the fraction applies to a fixed royalty amount or floats with whatever royalty the mineral owner later negotiates. That distinction can meaningfully change the value, so we always confirm it before pricing an offer."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI",
+   "paragraphs": [
+    "NPRIs are freely transferable, same as any other real property interest, and selling yours doesn't require any involvement from whoever holds the executive rights on the same minerals. If your NPRI is currently producing, we'll price it primarily off your royalty statement history and the operator's current activity; if it's tied to unleased or non-producing minerals, we'll weigh it more on proximity to activity, similar to any non-producing interest.",
+    "Because NPRIs are sometimes confused with other interest types on old paperwork, we'll confirm the conveyance language creating your interest before finalizing a number, just to make sure we're pricing what you actually own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What does 'non-participating' mean in an NPRI?",
+   "answer": "It means the royalty owner has no say in leasing decisions — no ability to negotiate bonus payments, set lease terms, or choose the operator. They receive a fixed royalty share of production once a well is drilled, but the leasing itself is controlled by whoever holds the executive rights."
+  },
+  {
+   "question": "Can I sell my NPRI without the mineral owner's permission?",
+   "answer": "Yes. An NPRI is a separate, independently transferable property interest, and selling it doesn't require consent from whoever holds the executive rights to the same minerals."
+  },
+  {
+   "question": "Is an NPRI worth less than a regular mineral interest?",
+   "answer": "Not necessarily less valuable, just structured differently. An NPRI carries no leasing control and no executive rights, but the royalty income itself is calculated similarly to a standard royalty interest once production exists."
+  },
+  {
+   "question": "How do I know if what I have is an NPRI versus a mineral interest?",
+   "answer": "Check the deed or conveyance that created your interest. If it grants only a royalty share without leasing authority, it's an NPRI. If you're unsure, we can review the language with you before pricing an offer."
+  },
+  {
+   "question": "Does an NPRI survive if the current lease expires?",
+   "answer": "Generally yes. Because an NPRI is carved from the underlying mineral estate rather than from a specific lease, it typically survives a lease expiring and simply continues attached to the minerals, ready to receive royalty again once a new lease is signed and a well is drilled. This is a meaningful difference from an overriding royalty interest, which is tied to one lease and ends when that lease does."
+  },
+  {
+   "question": "Can an NPRI be divided among multiple heirs over time?",
+   "answer": "Yes, the same way any other real property interest can. An NPRI created decades ago by one family member is often fractionalized further as it passes through subsequent generations, which is worth accounting for when confirming exactly what decimal share you hold before selling."
+  }
+ ],
+ "status": "written",
+ "wordCount": 936,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsutah-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

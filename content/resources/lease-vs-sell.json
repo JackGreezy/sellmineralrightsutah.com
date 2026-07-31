@@ -1,0 +1,68 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease or Sell Your Utah Mineral Rights? A Comparison",
+ "metaDescription": "Weighing a new lease offer against a sale on Utah mineral rights, with the tradeoffs that matter for Uinta and Paradox Basin owners specifically.",
+ "heroLead": "A landman calling with a new lease and a buyer calling with a cash offer are solving two different problems, and it helps to know which one you're actually trying to solve.",
+ "intro": [
+  "Leasing and selling are not competing versions of the same transaction. Leasing keeps you as the mineral owner and grants an operator the right to drill for a defined term in exchange for a bonus payment now and a royalty later, if and when a well is drilled and produces. Selling converts your entire future interest, whatever it turns out to be worth, into a single payment today. Neither is universally right — the better fit depends on your time horizon, your appetite for uncertainty, and what else is going on in your life around the decision.",
+  "We treat this as a portfolio question, not a sales pitch. Plenty of owners we talk with should lease, or hold, rather than sell, and we'll tell you that plainly if it looks that way."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually gives you",
+   "paragraphs": [
+    "A lease bonus is typically a modest upfront payment per net mineral acre, paid regardless of whether a well is ever drilled. If drilling does happen and the well produces, you then earn a royalty — commonly in the twelve-to-twenty percent range depending on the lease terms negotiated — for as long as the well produces economically. The upside of leasing is that you keep ownership and participate in whatever the well actually does over its life, including any future development in the unit.",
+    "The downside is uncertainty and patience. Many leased tracts in Utah, particularly in slower parts of the Paradox Basin or on the margins of the Uinta play, never get drilled during the primary lease term and the lease simply expires, leaving you with only the original bonus. Even where drilling happens, first royalty checks can be a year or more out from signing."
+   ]
+  },
+  {
+   "heading": "What selling actually gives you",
+   "paragraphs": [
+    "A sale converts the interest — leased or unleased, producing or not — into one payment now, sized against current activity, decline trend if it's producing, and the likelihood of future development if it isn't. You give up all future upside, including any new wells drilled in the unit years from now, in exchange for certainty and immediate liquidity. For owners consolidating an estate, funding a near-term need, or simply tired of tracking small, irregular royalty checks from a fractional interest, that certainty is often worth more than the theoretical upside.",
+    "For owners sitting on a strongly performing, actively producing Uinta Basin interest with visible nearby drilling, selling the whole thing may mean walking away from real future cash flow — which is exactly why we'll often suggest selling only a portion, keeping the rest to participate in what happens next."
+   ]
+  },
+  {
+   "heading": "Questions that tend to clarify the decision",
+   "paragraphs": [
+    "How many other owners hold interests in the same unit, and are they leasing or selling? Is there active drilling within a mile or two of your acreage, or is the nearest well several sections away? Do you have a near-term use for cash that outweighs the value of waiting? Is the interest large enough that a partial sale makes sense, or small enough that the administrative burden of managing it outweighs the royalty it generates? Answering these honestly usually points toward one path or the other."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I lease and still sell later?",
+   "answer": "Yes, and it's a common sequence. A signed lease with an established royalty rate can actually make the interest easier to value and sell later, since it removes some of the uncertainty a buyer would otherwise have to price in."
+  },
+  {
+   "question": "What happens if my lease expires without a well being drilled?",
+   "answer": "You keep the original bonus payment and the minerals revert to unleased status, free to lease again or sell as you choose. This is a common outcome in slower-moving parts of the Paradox Basin."
+  },
+  {
+   "question": "Is a partial sale possible if I want some cash now but don't want to give up everything?",
+   "answer": "Yes. Many owners sell a portion of their interest, often half, and retain the remainder to keep exposure to future drilling and royalty income."
+  },
+  {
+   "question": "Which option is better if my interest has never produced?",
+   "answer": "It depends heavily on nearby activity. If drilling is picking up nearby, leasing may capture more value over time; if the area has been quiet for years, a sale may be the more practical way to realize any value now rather than waiting indefinitely."
+  },
+  {
+   "question": "Does it matter if my acreage touches a SITLA state trust section?",
+   "answer": "It can. SITLA's own leasing activity on the adjoining section is often a useful, publicly visible signal of operator interest in the area, which can inform whether leasing your own minerals soon looks likely to attract a serious bonus offer."
+  },
+  {
+   "question": "Can I compare a lease bonus offer against a sale offer directly?",
+   "answer": "Not as a straight dollar comparison, since a lease bonus is only the first of potentially many payments while a sale is a single final number, but we're glad to walk through both so you can weigh them against your own priorities."
+  }
+ ],
+ "wordCount": 883,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsutah-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

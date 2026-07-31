@@ -1,0 +1,75 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Utah Mineral Rights Worth? A Practical Guide",
+ "metaDescription": "What actually drives Utah mineral rights value — production, decline, play position, and SITLA or split-estate boundary factors — explained plainly.",
+ "heroLead": "Every owner asks the same first question, and the honest answer is always: it depends on a handful of specific things about your particular interest.",
+ "intro": [
+  "We understand why a straight number feels like the useful answer. It isn't, and any buyer who gives you one before seeing your deed and recent production history is either guessing or lowballing. What we can do is walk through the actual factors that move value up or down for interests like yours, so you can judge any offer you receive against something real rather than a headline figure.",
+  "This guide covers producing and non-producing interests separately, since they're valued through different lenses, and closes with the Utah-specific wrinkles worth knowing about."
+ ],
+ "sections": [
+  {
+   "heading": "If your interest is already producing",
+   "paragraphs": [
+    "Value tracks closely with your trailing production, the well's decline trend, and the current price environment for oil or gas. A royalty interest generating steady checks off a well several years into a long, shallow decline tail is a more predictable asset than one still on the steep early decline of a new horizontal well, even if the newer well is currently paying more per month. Buyers project the remaining income forward and discount it to a present value, weighting for how confident that projection can be.",
+    "Nearby drilling matters too. An interest in a unit where the operator is actively developing offset wells carries more near-term upside than one sitting quietly with no announced activity, and that gets reflected in any range you're quoted."
+   ]
+  },
+  {
+   "heading": "If your interest has never produced",
+   "paragraphs": [
+    "Undeveloped or unleased minerals are valued more speculatively, based mainly on proximity to current drilling and the general trajectory of the play. Acreage in the core of the Uinta oil fairway, where operators have a long track record with waxy crude wells around Duchesne and Uintah counties, generally holds more speculative value than acreage on the quieter margins of the Paradox Basin gas trend, where drilling has been intermittent for years.",
+    "This kind of interest is harder to price with precision, and any range offered on it should be understood as reflecting probability of future development, not a guarantee of it."
+   ]
+  },
+  {
+   "heading": "Utah-specific factors worth knowing",
+   "paragraphs": [
+    "Checkerboard ownership is the defining feature of mineral title in this state. Sections of SITLA-managed state trust land are interleaved with federal, tribal, and private minerals across much of the Uinta Basin, a legacy of the original federal land grant to Utah at statehood. Acreage near an actively leased SITLA section can be a useful signal of operator interest in the area, since the state trust land office manages its leasing on a fairly transparent, market-driven basis.",
+    "Split estate — where surface ownership was severed from mineral ownership generations ago, often through original homestead patents — is also common here and affects how straightforward surface access for drilling has historically been in a given township, which buyers weigh alongside the geology itself."
+   ]
+  },
+  {
+   "heading": "What actually moves the number",
+   "paragraphs": [
+    "In rough order of impact: recent production trend, remaining decline curve if producing, proximity to active drilling if not, current commodity price levels, and title clarity, including whether heirship or a checkerboard boundary needs resolving before closing. A clean, well-documented interest with recent statements in hand will generally see a faster, more confident offer than one requiring title work first — not necessarily a different final value, but a smoother path to it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why won't you just give me a price per acre?",
+   "answer": "Because value here depends heavily on production history, decline trend, and nearby activity, all of which vary enormously even within the same county. A generic per-acre figure would mislead more than it would help — we'd rather review your actual interest first."
+  },
+  {
+   "question": "Does owning minerals near a SITLA state trust section help my value?",
+   "answer": "It can be a useful signal of operator interest in the area, since state trust land leasing tends to be active and market-driven, but it's one factor among several, not a guarantee of higher value on its own."
+  },
+  {
+   "question": "How much does the current price of oil affect what my interest is worth?",
+   "answer": "Meaningfully, particularly for producing interests, since value is built on a forward price assumption. A higher price environment generally supports higher valuations, and a lower one the reverse."
+  },
+  {
+   "question": "My interest has never produced anything — is it worth anything at all?",
+   "answer": "Often yes, especially if it sits near active drilling, though the value reflects probability of future development rather than current cash flow. We can walk through what nearby activity looks like for your specific township."
+  },
+  {
+   "question": "If I have several small fractional interests inherited from different relatives, should I value them together or separately?",
+   "answer": "Separately, at least initially, since each may trace back to a different tract with its own production history and title status. Once each is understood individually, it's reasonable to bundle them into a single sale conversation for convenience."
+  },
+  {
+   "question": "Does the size of my interest, large or small, change how it's valued?",
+   "answer": "The underlying method stays the same, but very small fractional interests sometimes carry less buyer interest simply due to the administrative cost of closing relative to the payment size, which is worth keeping in mind when weighing whether to sell."
+  }
+ ],
+ "wordCount": 890,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsutah-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

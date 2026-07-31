@@ -1,0 +1,89 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Utah Mineral Rights Buyer",
+ "metaDescription": "Terms governing use of this website, including the informational nature of our valuation ranges and the limits of the guidance we provide.",
+ "heroLead": "These terms cover how you may use this website and how to understand the information and ranges we provide through it.",
+ "intro": [
+  "By using this site or contacting us through it, you agree to the terms below. We've tried to write them in plain language rather than dense legal boilerplate, but they're still the terms that govern your use of this site and our communications with you."
+ ],
+ "sections": [
+  {
+   "heading": "Informational nature of ranges and content",
+   "paragraphs": [
+    "Any valuation range, guide, or general information provided through this site is for informational purposes and reflects our general understanding at the time it was written. It is not a binding offer until confirmed to you individually and in writing, is not legal advice, is not tax advice, and is not a formal appraisal. We are not licensed attorneys, CPAs, or appraisers, and nothing on this site should be treated as a substitute for advice from one.",
+    "Mineral and oil and gas values are inherently uncertain and depend on production trends, commodity prices, and drilling activity that can change. Ranges discussed on this site or in direct communication with you are estimates only, tied to the specific documents and information reviewed at that time, and are not guarantees of any particular sale price."
+   ]
+  },
+  {
+   "heading": "Your responsibilities",
+   "paragraphs": [
+    "You agree to provide accurate information about your mineral or royalty interest when requesting a range or pursuing a transaction with us. Misrepresenting your ownership, title status, or production history can delay or void a proposed transaction. You are responsible for consulting your own attorney or CPA on any legal or tax questions specific to your circumstances before finalizing a sale.",
+    "Use of this site should not involve submitting information you don't have the right to share, such as another owner's private financial details without their consent."
+   ]
+  },
+  {
+   "heading": "Limitation of liability",
+   "paragraphs": [
+    "To the extent permitted by law, we are not liable for decisions made based on general information provided on this site, including estimated ranges that are later revised once full documentation is reviewed. Any actual purchase agreement or deed will contain its own specific, binding terms, which supersede general information found here.",
+    "These terms may be updated from time to time as our process or the site changes. Continued use of the site after an update constitutes acceptance of the revised terms."
+   ]
+  },
+  {
+   "heading": "Third-party and county resources referenced on this site",
+   "paragraphs": [
+    "This site may reference or link to public resources such as a county recorder's office, the Utah School and Institutional Trust Lands Administration, or other state and federal agencies, for informational context about title and land records. We don't control those resources and aren't responsible for their accuracy, availability, or their own terms of use. Always confirm official records directly with the relevant county or agency rather than relying solely on general information here.",
+    "Similarly, mentions of typical royalty rates, decline behavior, or pricing differentials reflect general patterns we've observed in Utah's oil and gas basins and are not a representation about any specific well, unit, or interest."
+   ]
+  },
+  {
+   "heading": "Governing law and disputes",
+   "paragraphs": [
+    "These terms, and any transaction conducted with us, are governed by the laws of the State of Utah, without regard to conflict of law principles. Any specific purchase agreement or mineral deed you enter into with us will separately state its own terms regarding disputes, which govern over these general website terms for matters related to that transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a range I get from this website a binding offer?",
+   "answer": "No. It's a preliminary estimate based on the information reviewed at that time. A binding offer is confirmed to you individually and in writing once full documentation has been reviewed."
+  },
+  {
+   "question": "Is anything on this site legal or tax advice?",
+   "answer": "No. We are not attorneys, CPAs, or licensed appraisers. Consult your own qualified advisor for legal or tax questions specific to your situation."
+  },
+  {
+   "question": "What if the information I provide turns out to be inaccurate?",
+   "answer": "Inaccurate information about ownership or title can delay or void a proposed transaction. We ask that you provide the most accurate information you have and flag any uncertainty upfront."
+  },
+  {
+   "question": "Can these terms change over time?",
+   "answer": "Yes. We may update these terms periodically, and continued use of the site after a change means you accept the updated version."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "Utah law governs these general website terms. Any specific purchase agreement or mineral deed you sign will contain its own governing terms for that particular transaction."
+  },
+  {
+   "question": "Are references to state agencies like SITLA on this site official information?",
+   "answer": "No. They're general, informational context. For official records or current leasing information, contact the relevant county recorder or state agency directly rather than relying solely on this site."
+  },
+  {
+   "question": "Does using this site create any obligation on my part?",
+   "answer": "No. Browsing the site, reading a resource page, or submitting a general question through the contact form creates no obligation. Only a signed, written purchase agreement or deed creates a binding transaction."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "Reach out through our contact page and we'll respond to any question about these terms or how they apply to your situation."
+  }
+ ],
+ "wordCount": 872,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsutah-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

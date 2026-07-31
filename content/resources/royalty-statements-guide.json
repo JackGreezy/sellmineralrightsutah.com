@@ -1,0 +1,67 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read Utah Mineral Royalty Statements",
+ "metaDescription": "A plain-language walkthrough of the Utah royalty statement: deductions, price codes, decline curves, and what to flag before you decide whether to hold or sell.",
+ "heroLead": "Most owners we talk with in the Uinta and Paradox basins have a drawer full of royalty stubs they have never really read line by line.",
+ "intro": [
+  "A royalty statement is the one document that tells the truth about what an interest is actually producing, month over month, after the operator's deductions are taken. Families who inherited a fractional interest from a grandparent's allotment often treat the check as the whole story. It isn't. The statement behind the check carries the volume, the price, the deduction code, and the well or unit name — the pieces that let you (or an advisor working for you) judge whether an interest is worth holding, worth leasing again, or worth selling now while activity is visible.",
+  "We read statements as part of every conversation with an owner, and we walk through this same breakdown before we ever quote a range. The goal here is to give you the same literacy, whether you sell to us, to someone else, or not at all this year."
+ ],
+ "sections": [
+  {
+   "heading": "The line items that actually matter",
+   "paragraphs": [
+    "Ignore the logo at the top and go straight to five columns: property or well name, production month, gross volume, price per barrel or mcf, and net decimal interest. The net decimal is your ownership fraction after unitization — it is usually a long string like 0.00041237 and it rarely matches the fraction you think you own, because spacing units, pooling, and prior severances all touch it.",
+    "Below that sits the deduction section, sometimes labeled 'post-production costs' or 'gathering, processing, transportation.' In the Uinta Basin, where waxy crude has to be heated and trucked or railed to a Salt Lake refinery before it can be sold, these deductions run higher than in basins with pipeline takeaway. That is not a red flag by itself — it is the cost structure of the play — but it is the number you want to track statement over statement to see if it is creeping."
+   ]
+  },
+  {
+   "heading": "Price codes and why your barrel isn't WTI",
+   "paragraphs": [
+    "Uinta black wax and yellow wax crude sell at a differential to benchmark prices because of the heating, trucking, and refining logistics unique to this basin. A statement showing $8 or more under WTI on a given month is normal for this geology, not a sign you are being shorted. What you want to watch is whether that differential is widening over time relative to nearby wells, which can signal a change in takeaway capacity or refinery demand rather than anything about your specific interest.",
+    "For gas interests tied to Paradox Basin or older Uinta Basin gas wells, the same logic applies against a regional gas hub price rather than Henry Hub. Ask for the index name on the statement if it isn't printed plainly — most operators will provide it if you call the owner relations line."
+   ]
+  },
+  {
+   "heading": "Decline, and what a falling check actually tells you",
+   "paragraphs": [
+    "Oil and gas wells decline. A statement that shows volume falling 20 to 40 percent in year two versus year one off a new horizontal well is typical decline curve behavior, not a problem with your interest. What matters is the shape of the decline after that first steep drop — a well that stabilizes into a long, shallow tail can still support meaningful royalty income for a decade or more, while one that keeps falling sharply may be nearing its economic limit.",
+    "This is exactly where a portfolio decision comes in. An interest riding a steep decline curve is worth less to a buyer with each passing quarter, because the buyer is pricing a shrinking future income stream. If you are weighing whether to sell, the trend across your last six to twelve statements tells you more than any single month's check."
+   ]
+  },
+  {
+   "heading": "Suspense, non-consent, and other flags worth a phone call",
+   "paragraphs": [
+    "Some statements show a line for funds held 'in suspense' — often because of an unresolved title issue, a missing heirship affidavit, or a division order that was never returned. On split-estate and checkerboard state trust land parcels common across the Uinta Basin, where SITLA-managed sections sit interleaved with federal and private minerals, title clean-up can take longer than owners expect, and suspended funds can sit for years until it's resolved. It is worth calling the operator's owner relations department once a year just to ask if anything is being held for your interest."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my net decimal interest look so small?",
+   "answer": "Spacing and pooling divide production across every mineral owner in the unit rather than only the acreage directly under the wellbore, so a fractional inherited interest translates into a long decimal. It's normal and doesn't mean your interest is wrong — ask the operator for the unit's pooling order if you want to verify the math."
+  },
+  {
+   "question": "My statement shows a lower price than what I see quoted in the news. Is that a mistake?",
+   "answer": "Usually not. Uinta waxy crude sells at a real, persistent differential to WTI because of the heating and trucking required to move it, and gas often prices off a regional index rather than Henry Hub. Compare your price against prior months on the same statement rather than against a national headline number."
+  },
+  {
+   "question": "What does a 'suspense' line mean and should I worry?",
+   "answer": "It means the operator is holding funds tied to your interest, usually pending a title or heirship document. It is common on older, inherited interests and on parcels with a mixed state-trust and federal history. Call the owner relations line and ask what document is needed to release it."
+  },
+  {
+   "question": "Can I use my royalty statements when I'm deciding whether to sell?",
+   "answer": "Yes, and you should. Six to twelve months of statements show volume trend, price trend, and deduction trend, which is exactly what a buyer prices when quoting a range. Bring recent statements to any conversation about selling, whether it's with us or another party."
+  }
+ ],
+ "wordCount": 1011,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsutah-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

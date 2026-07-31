@@ -1,0 +1,62 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Leased but Not Drilled: Selling Utah Minerals Under Lease",
+ "metaDescription": "You signed a Utah oil and gas lease, took the bonus, and no well has been drilled. Here's how that undrilled position gets valued if you decide to sell.",
+ "heroLead": "A signed lease with no rig on the ground yet puts you in a specific, and specifically uncertain, position: you've been paid a bonus, but the real payoff was always supposed to come from production that hasn't started.",
+ "intro": [
+  "Every Utah mineral owner who's leased acreage has lived through some version of this waiting period. The landman came through, negotiated a bonus per acre and a royalty fraction, you signed and cashed the check, and then months or years passed with no permit filed, no rig mobilized, and no royalty statement to show for it beyond that initial payment. That's not unusual — operators lease broadly across a prospect and then prioritize drilling based on where the geology, infrastructure, and commodity price line up best, which means plenty of leased acreage sits undrilled for the life of the primary term or longer.",
+  "The question that brings families to us at this stage is usually some version of: is it worth selling this position now, while it's still just a lease with unrealized potential, or should I wait to see if a well actually gets drilled. There's a real answer to that, and it depends on specifics that are worth walking through rather than guessing at."
+ ],
+ "sections": [
+  {
+   "heading": "What a lease actually gives you, and what it doesn't",
+   "paragraphs": [
+    "Signing a lease doesn't obligate the operator to drill. It gives them the right to drill during the primary term, typically a small number of years, with an option to extend into a secondary term if a well is producing by then. If the primary term runs out with nothing drilled, the lease can lapse and the mineral rights return to you unencumbered, at which point you're free to lease again, wait, or sell as fee minerals with no lease attached. Knowing where you sit in that term is the first thing worth confirming.",
+    "Permit filings with the Utah Division of Oil, Gas and Mining are public record and a useful early signal — a permit filed on or near your unit suggests the operator is moving toward drilling, while a primary term running toward expiration with no permit activity suggests the opposite. We check this before putting together an offer on a leased-but-undrilled position, because it's one of the biggest inputs into what that position is worth today."
+   ]
+  },
+  {
+   "heading": "Selling the undrilled position versus waiting for a well",
+   "paragraphs": [
+    "A leased position with an active permit and nearby offset production tends to carry meaningfully more value than one that's leased with no signs of movement, simply because the odds of an actual well, and the royalty stream that comes with it, look better. If your acreage is near recent activity in the Uinta Basin or another active Utah play, that proximity is part of what we'd weigh.",
+    "Selling now converts what's still a speculative position — bonus paid, royalty yet to come, term still running — into a known, immediate number. Waiting keeps the option open for a producing well and an ongoing royalty stream, but also carries the real possibility the lease simply expires with nothing drilled and the acreage goes back to being unleased minerals with no royalty history at all. Neither path is automatically better; it depends on how much you value certainty versus upside, and on what the permitting activity around you actually looks like."
+   ]
+  },
+  {
+   "heading": "What we look at before making an offer",
+   "paragraphs": [
+    "We'll want to see the lease itself — bonus paid, royalty fraction, primary term length and start date, and any Pugh or continuous drilling clauses that affect what happens if only part of a larger leasehold gets developed. We'll also look at permit activity, offset well performance if any exists nearby, and how much of the primary term remains.",
+    "None of this requires you to have kept perfect records. If you have the original lease document or even just know roughly when you signed and who the lessee was, we can usually pull the rest from county and state records to put together a fair number reflecting where the position actually stands."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The lease was signed years ago and nothing's happened. Does it expire?",
+   "answer": "Most oil and gas leases have a primary term, commonly a handful of years, after which the lease expires automatically unless a well has been drilled and is producing, or the operator has paid to extend it. Check your lease's term dates or ask us to help pull that from the recorded document."
+  },
+  {
+   "question": "Can I sell my minerals if they're still under an active lease?",
+   "answer": "Yes. You'd be selling the mineral estate subject to the existing lease, meaning the buyer steps into your position as the new lessor and would receive any future royalty if a well is drilled. The lease itself doesn't prevent a sale."
+  },
+  {
+   "question": "Is undrilled, leased acreage worth less than a producing interest?",
+   "answer": "Generally yes, since there's no royalty stream yet and drilling is not guaranteed. But it's not worthless — proximity to active drilling, offset well results, and permit filings on or near your unit all factor into what an undrilled position is worth today."
+  },
+  {
+   "question": "How do I know if a permit has been filed on my acreage?",
+   "answer": "Permits filed with the Utah Division of Oil, Gas and Mining are public record. We check this as part of putting together an offer, and can walk you through what's showing on or near your specific section."
+  }
+ ],
+ "status": "written",
+ "wordCount": 931,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsutah-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Mineral Rights Held in a Utah Trust",
+ "metaDescription": "Trustees managing Utah mineral interests face fiduciary duties around diversification and prudent investing. Here's how a trustee evaluates keeping or selling.",
+ "heroLead": "A trustee holding mineral rights on behalf of beneficiaries carries a fiduciary responsibility that a private owner managing their own asset simply doesn't have, and that changes how the keep-or-sell question gets asked.",
+ "intro": [
+  "Mineral interests end up inside family trusts for reasons that had nothing to do with portfolio strategy at the time — a parcel that was already owned when the trust was funded, or an interest that passed into a testamentary trust through a will. Once it's there, the trustee's obligation isn't only to hold whatever's in the trust and let it run; Utah's version of the Uniform Prudent Investor Act generally requires a trustee to manage trust assets as a prudent investor would, considering the trust's overall portfolio, diversification, and the interests of current and future beneficiaries, not to treat any single holding as untouchable by default.",
+  "That standard puts a concentrated, illiquid, single-asset-class holding like a mineral interest under a different kind of scrutiny than it would face in a personal account. A trustee doesn't need to sell simply because an asset is unusual, but a mineral interest that represents a disproportionate share of the trust, produces unpredictable income, and has no natural diversification benefit is exactly the kind of holding the prudent investor standard asks a trustee to evaluate deliberately, with documented reasoning either way."
+ ],
+ "sections": [
+  {
+   "heading": "The diversification argument for selling",
+   "paragraphs": [
+    "A single mineral interest, however it's held, is a concentrated bet on one basin, one set of wells, and commodity prices the trustee has no ability to influence. For a trust meant to serve current income beneficiaries and preserve principal for remainder beneficiaries down the line, that concentration cuts against the diversification principle that underlies prudent trust management. Selling the mineral interest and reinvesting proceeds across a diversified portfolio is often the more defensible position from a fiduciary standpoint, even when the mineral interest itself has been a reasonable performer.",
+    "This is distinct from asking whether the interest is 'good' or 'bad' as an investment on its own terms. A perfectly reasonable royalty stream can still be the wrong thing for a trust to hold in concentration, the same way a trustee wouldn't leave a trust's entire portfolio in a single stock even if that stock has performed well."
+   ]
+  },
+  {
+   "heading": "Documenting the decision, either way",
+   "paragraphs": [
+    "If a trustee decides to sell, having a written offer that reflects the interest's actual production history and current market conditions gives the trustee something concrete to point to as evidence of a reasoned, arm's-length decision, which matters if beneficiaries ever question the trustee's handling of trust assets. We provide that kind of documentation as a matter of course, and it's often useful to a trust's attorney or accountant independent of whether a sale to us proceeds.",
+    "If a trustee decides to hold the interest instead, understanding its current value and production trajectory still supports the trust's periodic accounting and helps the trustee explain that decision to beneficiaries with more than 'we've always had it.' Either way, getting a real number is useful groundwork, not only a step toward selling."
+   ]
+  },
+  {
+   "heading": "Coordinating with the trust's other advisors",
+   "paragraphs": [
+    "We typically work alongside the trustee's attorney, CPA, or corporate trust officer when a sale is under consideration, providing whatever documentation on production history, county title, and offer terms those advisors need to evaluate the transaction against the trust's overall strategy and any specific instructions in the trust document itself. Some trusts have language specifically addressing mineral interests or restricting certain transactions, so that document is always the starting point.",
+    "If the trust has multiple current beneficiaries with different preferences about the mineral interest, that's a conversation for the trustee and the trust's counsel to manage under the trust's terms — our role is limited to providing an accurate valuation and, if the sale proceeds, a clean closing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a trustee have to sell mineral rights held in a Utah trust?",
+   "answer": "Not automatically. But Utah's prudent investor standard generally requires the trustee to evaluate concentrated, illiquid holdings like a mineral interest against the trust's overall diversification and the interests of beneficiaries, rather than holding by default. Consult the trust's attorney about your specific fiduciary obligations."
+  },
+  {
+   "question": "Can you provide documentation for the trust's records?",
+   "answer": "Yes. We provide written offers based on actual production history and current market activity that trustees and their advisors commonly use to document the reasoning behind a sale, or to support periodic trust accounting if the interest is retained."
+  },
+  {
+   "question": "Who has authority to sell a mineral interest held in trust?",
+   "answer": "That's governed by the trust document and Utah trust law, and typically rests with the trustee, though some trusts require beneficiary consent or advisor approval for certain transactions. The trust's attorney is the right source for confirming what's required in your case."
+  },
+  {
+   "question": "Is a mineral interest a bad fit for a trust portfolio?",
+   "answer": "Not inherently, but it is a concentrated, illiquid, single-asset holding, which is the kind of position the prudent investor standard asks a trustee to weigh carefully rather than hold indefinitely without review."
+  }
+ ],
+ "status": "written",
+ "wordCount": 862,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsutah-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? Utah Owner's Guide",
+ "metaDescription": "Mineral rights are the ownership stake in oil, gas, and other resources beneath the surface. Here's what that bundle of rights includes for Utah owners.",
+ "heroLead": "Mineral rights are the foundation everything else in this guide sits on: the ownership interest in what's beneath the surface, separate and distinct from ownership of the land itself.",
+ "intro": [
+  "In Utah, as in most of the country, land ownership can be split into two separate estates: the surface estate, which covers the ground you'd stand on, farm, or build a house on, and the mineral estate, which covers oil, gas, and other subsurface resources beneath that same ground. These two estates can be owned by the same person, or they can be severed and held by entirely different people, sometimes for over a century, without either owner having any claim to the other's estate.",
+  "If your family holds mineral rights in Utah, you own a piece of what's called the 'bundle of rights' associated with subsurface minerals: the right to explore for and produce oil and gas, the right to lease that opportunity to an operator in exchange for a bonus payment and ongoing royalty, and the right to whatever royalty income results if a well is drilled and produces. Understanding exactly which of those rights you hold, and which you've already leased away, is the starting point for any decision about what your interest is worth."
+ ],
+ "sections": [
+  {
+   "heading": "Executive rights versus royalty rights",
+   "paragraphs": [
+    "Owning mineral rights typically includes what's called the executive right — the authority to negotiate and sign an oil and gas lease covering your interest, decide which operator to lease to, and set the bonus and royalty terms. If your minerals have never been leased, you hold that executive right and can exercise it, or wait, or sell the whole bundle to someone else who would then hold it.",
+    "Once you sign a lease, you retain your underlying mineral ownership but you've granted the operator the right to drill during the lease term, and your ongoing interest converts largely into a royalty right — a share of production if a well is drilled, without any further say in how the operator conducts operations. This is different from a working interest, where the owner bears drilling and operating costs directly; a standard mineral rights lease keeps the mineral owner's obligations to essentially nothing beyond having signed the lease."
+   ]
+  },
+  {
+   "heading": "How mineral ownership gets severed and passed down",
+   "paragraphs": [
+    "Mineral rights become severed from the surface in a handful of common ways: an original landowner sells the surface but reserves the minerals in the deed, a mineral owner sells or gifts the minerals separately from the surface, or the two estates simply pass down through different lines of inheritance over generations. In Utah, a good deal of severed mineral ownership traces back to homestead-era transactions or land patents where minerals were reserved by the original grantor.",
+    "Once severed, mineral rights are their own real property interest, transferable by deed, divisible among heirs, and taxable and titled separately from the surface. This is why a family can own minerals in a Utah county without owning, or ever having owned, an acre of the actual surface land above it."
+   ]
+  },
+  {
+   "heading": "What owning mineral rights means for you today",
+   "paragraphs": [
+    "If your interest is unleased, you hold the full bundle: the right to lease on your own terms, the right to hold and wait, or the right to sell the entire mineral estate outright. If your interest is currently leased, you hold the mineral estate subject to that lease, which still has real value and can still be sold — a buyer simply steps into your position as the lessor and inherits any future royalty.",
+    "We buy both leased and unleased mineral rights across Utah, and the starting point for any conversation is the same regardless: confirming exactly what you own, in which county and section, and whether it's currently under lease. From there the valuation reflects your specific position rather than a generic estimate."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and surface rights?",
+   "answer": "Surface rights cover ownership of the ground itself — farming, building, grazing. Mineral rights cover ownership of subsurface oil, gas, and other resources. The two can be owned by the same person or split between different owners entirely."
+  },
+  {
+   "question": "Do I still own my minerals if they're under an active lease?",
+   "answer": "Yes. Leasing grants an operator the right to drill during the lease term in exchange for a royalty; it doesn't transfer your underlying ownership. You still hold the mineral estate, subject to the lease terms."
+  },
+  {
+   "question": "How do I find out if I own mineral rights in Utah?",
+   "answer": "Start with the county recorder's office in the county where the land is located, or check any old deeds, lease documents, or royalty statements your family has kept. If minerals were severed from the surface at some point, that reservation should appear in the recorded chain of title."
+  },
+  {
+   "question": "Can I sell mineral rights separately from the land?",
+   "answer": "Yes, since mineral rights are their own distinct property interest once severed, they can be sold, leased, or passed down independently of whatever happens to the surface estate."
+  }
+ ],
+ "status": "written",
+ "wordCount": 861,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsutah-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

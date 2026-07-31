@@ -1,0 +1,62 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights During Utah Probate",
+ "metaDescription": "Executors settling a Utah estate with mineral rights face title, appraisal, and multi-heir coordination questions. Here's how a sale fits into probate mechanics.",
+ "heroLead": "An executor settling a Utah estate that includes mineral rights is usually dealing with an asset nobody else in the family fully understands, which makes it one of the harder line items to close out cleanly.",
+ "intro": [
+  "Mineral rights show up on a lot of Utah estate inventories almost as an afterthought — a line item pulled from an old deed or a royalty statement the decedent kept filed away, worth an unclear amount, tied to a county the executor may never have visited. Unlike the house or the brokerage account, there's rarely an obvious person to call for a straightforward valuation, and the asset doesn't behave like anything else in the estate: it produces an irregular income stream if it produces at all, and its value depends on facts about drilling and geology that have nothing to do with the rest of the decedent's affairs.",
+  "As executor or personal representative, you have a duty to the estate and its beneficiaries to handle this asset reasonably, whether that means distributing it in kind to the heirs, selling it as part of settling the estate, or some combination depending on how many beneficiaries are involved and what they each want. We've worked with executors and estate attorneys across several Utah probate matters and can usually get a workable number in front of you quickly enough that it doesn't become the item holding up final distribution."
+ ],
+ "sections": [
+  {
+   "heading": "Appraisal for the estate versus a sale offer",
+   "paragraphs": [
+    "Utah probate typically requires an appraisal or reasonable valuation of estate assets, including mineral interests, both to satisfy the court and to establish the beneficiaries' stepped-up cost basis for future tax purposes. That appraisal is a separate step from an actual offer to purchase, though the two inform each other — a written purchase offer backed by real production and title data often serves as credible support for the estate's valuation, and can sometimes stand in for a formal appraisal depending on your attorney's guidance and the value involved.",
+    "We regularly provide these written offers to executors and estate attorneys specifically for this purpose, whether or not a sale to us ultimately happens. It's a faster and more concrete path than waiting on a generalist appraiser who may not have current Utah oil and gas activity data to work from."
+   ]
+  },
+  {
+   "heading": "Selling as executor before distribution",
+   "paragraphs": [
+    "If the estate plan or the will's language, combined with the personal representative's authority under Utah probate law, permits selling estate assets to convert them to cash for distribution, a mineral interest sale can happen before the estate closes, with the proceeds distributed to beneficiaries according to the will or intestate succession, rather than distributing a fractional, hard-to-manage mineral interest to each heir individually.",
+    "This route tends to make sense when there are multiple beneficiaries who don't have a particular attachment to holding minerals long-term, or who live in different states and would each face the same out-of-state management friction on their fractional share. A single sale during probate, with proceeds split according to the estate plan, avoids handing several heirs a small fractional interest apiece that each then has to deal with independently."
+   ]
+  },
+  {
+   "heading": "When heirs disagree about selling",
+   "paragraphs": [
+    "It's common for one heir to want to sell and another to want to keep the family's minerals, particularly when there's sentimental attachment to land the family has held for generations. If the will directs the interest to be distributed in kind rather than sold, that disagreement resolves itself after distribution: each heir who receives an undivided fractional share can then decide independently whether to hold or sell their own piece, without needing consensus from the others.",
+    "We can provide offers on both the whole estate interest, for a pre-distribution sale, and on individual fractional shares after distribution, so the timing of when family members actually decide doesn't have to be forced by the probate calendar."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a mineral interest need a formal appraisal for probate?",
+   "answer": "Utah probate generally requires a reasonable valuation of estate assets, and your estate attorney can advise whether a formal appraisal or a documented purchase offer satisfies that requirement given the value involved. We provide written offers that many attorneys use as valuation support."
+  },
+  {
+   "question": "Can the executor sell mineral rights before the estate closes?",
+   "answer": "Often yes, if the will or Utah probate law grants the personal representative authority to sell estate assets. This can be simpler than distributing a fractional interest to multiple heirs who'd each then have to decide separately what to do with their share."
+  },
+  {
+   "question": "What if one heir wants to sell and another wants to keep the minerals?",
+   "answer": "If the interest is distributed in kind to multiple heirs, each heir's fractional share is typically theirs to sell or hold independently after distribution, so disagreement between heirs doesn't have to be resolved before probate closes."
+  },
+  {
+   "question": "How does the stepped-up basis work for estate minerals?",
+   "answer": "Inherited mineral interests generally receive a cost basis reset to fair market value as of the date of death, which is one reason an accurate valuation at the time of the estate matters. Confirm the details with the estate's CPA or attorney, since exact treatment depends on the estate's facts."
+  }
+ ],
+ "status": "written",
+ "wordCount": 885,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsutah-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

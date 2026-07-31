@@ -1,0 +1,69 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Utah Division Orders: What They Are and Why They Matter",
+ "metaDescription": "A family-office style breakdown of the division order — what it verifies, why it can stall payment on Uinta Basin checkerboard parcels, and when to sign.",
+ "heroLead": "The division order is the one document that turns a title opinion into an actual check, and on Utah's checkerboard mineral ownership it deserves more attention than most owners give it.",
+ "intro": [
+  "A division order is the operator's written confirmation of your decimal share in a well or unit, sent so you can verify the math before the first payment goes out. It is not a lease and it does not transfer ownership of anything. Treat it as a receipt you are being asked to check, not a contract you are being asked to accept blind.",
+  "We see two very different reactions to this document. Some owners sign whatever arrives without reading it, and others let it sit in a drawer for years out of confusion, which quietly stops payment. Neither is the right approach on interests where the underlying title runs through a mix of federal allotment, private fee minerals, and Utah's SITLA-managed state trust sections."
+ ],
+ "sections": [
+  {
+   "heading": "What the document is actually confirming",
+   "paragraphs": [
+    "At its core, the division order restates your net revenue interest — the fraction of production revenue you are entitled to after royalty burdens, overrides, and any prior conveyances are netted out. That fraction should trace back to your deed, your probate or heirship documents, and the pooling or unitization order for the specific well. If any of those source documents changed hands recently, through a sale, a gift, or an inheritance, the division order needs to reflect the new owner before checks will move.",
+    "Operators build these decimals from a title opinion, and title opinions on Uinta Basin acreage are frequently complicated by checkerboard ownership, where a single spacing unit can straddle a SITLA state trust parcel, a federal split-estate tract, and privately held minerals in adjoining sections. That mix is exactly why division orders here can take longer to issue than in a basin with cleaner, single-source title."
+   ]
+  },
+  {
+   "heading": "Why signing late — or not at all — costs you",
+   "paragraphs": [
+    "Unsigned division orders are one of the most common reasons royalty funds sit in suspense. Most operators will hold payment, sometimes for years, until the decimal is confirmed in writing, even though the well is producing and revenue is accruing on your behalf. That money isn't lost, but it also isn't earning anything for you while it waits, and if you are weighing an offer on the interest, a buyer will discount for the uncertainty a stalled division order represents.",
+    "The fix is usually simple: read the decimal against your own records, call the owner relations desk with any discrepancy, and return the signed order. If the decimal looks wrong, say so in writing before signing — a phone call alone rarely creates a record the operator will act on."
+   ]
+  },
+  {
+   "heading": "Where the checkerboard adds friction",
+   "paragraphs": [
+    "State trust land administered by SITLA generates royalty income that flows back to Utah's school and institutional trust beneficiaries, and SITLA's own leasing and division-order handling runs on a separate track from private mineral owners in the same unit. If your interest sits adjacent to or intermingled with a SITLA section, expect the operator's landman to take extra time reconciling the boundary, especially on older sections where the original federal patent, state selection, and private conveyance chain haven't been fully cross-referenced.",
+    "This is not a reason to worry about your interest — it is a reason to expect the paperwork to move on a slower calendar than a straightforward fee-mineral tract elsewhere in the country, and to keep your own deed and probate records organized so you can answer questions quickly when the landman calls."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does signing a division order affect my ownership of the minerals?",
+   "answer": "No. It only confirms your share of revenue from a specific well or unit for payment purposes. Ownership of the underlying minerals is established by your deed and heirship, not by the division order."
+  },
+  {
+   "question": "What if the decimal on my division order looks too small?",
+   "answer": "Compare it against your deed and any prior statements. Common causes are pooling across a larger spacing unit than you expected, or a prior partial conveyance you may not be aware of. Call the operator's owner relations line and put your question in writing."
+  },
+  {
+   "question": "Why is my division order taking so long on a Uinta Basin well?",
+   "answer": "Checkerboard title involving SITLA state trust sections, federal split estate, and private minerals in the same unit takes longer to reconcile than clean fee-mineral title. It's common in this basin and usually not a sign of a problem with your specific interest."
+  },
+  {
+   "question": "Should I sign a division order before selling my interest?",
+   "answer": "It helps. A confirmed decimal and a payment history give a buyer a cleaner picture of the interest and can support a faster, better-informed offer than an unresolved title situation would."
+  },
+  {
+   "question": "What if I never received a division order but I know a well was drilled near my acreage?",
+   "answer": "Contact the operator directly and ask whether your tract falls within the unit. Sometimes an owner is simply missed if a prior address on file is out of date, especially on interests that changed hands through inheritance without the operator being notified of the new owner."
+  },
+  {
+   "question": "Can more than one operator send me a division order for the same acreage?",
+   "answer": "Yes, if different wells or units cover overlapping or adjoining portions of your interest, particularly common on checkerboard acreage where multiple spacing units can touch the same section. Each division order should be reviewed on its own for the specific decimal it covers."
+  }
+ ],
+ "wordCount": 946,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsutah-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "ORRI: Overriding Royalty Interests Explained | Utah",
+ "metaDescription": "An overriding royalty interest is carved from a lease, not the mineral estate, and expires when that lease ends. Here's how ORRIs work and what they're worth.",
+ "heroLead": "An overriding royalty interest is a different kind of asset from the mineral rights and royalty interests covered elsewhere in this guide, and the difference matters more than it might seem at first glance.",
+ "intro": [
+  "Every other interest type we cover here — mineral rights, royalty interests, NPRIs — traces back to ownership of the underlying mineral estate itself. An ORRI doesn't. It's carved out of a specific oil and gas lease, typically retained by a landman, geologist, or intermediary who helped assemble the lease, or by a working interest owner who sells part of their operating position but keeps a royalty carved from it. The ORRI holder never owned the minerals underneath the ground at all; their interest exists only because of that one lease.",
+  "That structural difference has a real consequence: an ORRI is a 'creature of the lease,' as it's often described, and it lives and dies with that lease. If the lease terminates — the primary term expires with no well drilled, or the well stops producing and the lease lapses — the ORRI terminates with it and reverts to nothing. A mineral or royalty interest tied to the underlying estate, by contrast, survives a lease expiring and simply becomes unleased minerals again. This is the single most important fact to understand if you hold, or are considering buying, an Utah ORRI."
+ ],
+ "sections": [
+  {
+   "heading": "Where Utah ORRIs typically come from",
+   "paragraphs": [
+    "In the Uinta Basin and other Utah plays, ORRIs commonly originated with landmen or small operators who assembled acreage positions, took a carved-out override as part of their compensation for putting a deal together, and later sold or passed down that override separately from the working interest itself. It's also common for a working interest owner to sell down their operating position to a larger operator while retaining an ORRI as a way to keep some upside without continuing to bear drilling and operating costs.",
+    "Because of that origin, ORRIs often show up in family portfolios connected to someone who was professionally involved in the oil and gas business at some point, rather than through inheritance of an old homestead. If you're not sure whether your interest is an ORRI or a standard royalty interest tied to mineral ownership, the conveyance document that created it, and specifically whether it references a lease or the mineral estate itself, will usually settle the question."
+   ]
+  },
+  {
+   "heading": "How lease dependency shapes value",
+   "paragraphs": [
+    "Because an ORRI's entire existence depends on one specific lease staying active, valuing it requires looking closely at where that lease actually stands: is it held by production from an existing well, meaning the lease will likely continue indefinitely as long as the well produces economically, or is it still in a primary term with drilling not yet underway, meaning there's real risk the lease — and the ORRI along with it — simply expires with nothing paid.",
+    "An ORRI on a well that's been producing steadily for years, with the lease clearly held by production, is a comparatively stable asset, similar in practice to a royalty interest, just legally distinct in its origin. An ORRI on an undrilled lease approaching the end of its primary term carries meaningfully more risk, and that risk gets reflected directly in what a buyer will offer."
+   ]
+  },
+  {
+   "heading": "Selling an ORRI",
+   "paragraphs": [
+    "We buy ORRIs across Utah, and the process starts the same way as any other interest: confirming the conveyance language, identifying the specific lease and well the override is tied to, and reviewing the production and lease status. Because the lease-dependency risk is central to ORRI value, we're especially careful here to document current lease status clearly, both for our own diligence and so you understand exactly what's driving the number.",
+    "If your ORRI is on a long-producing, held-by-production well, it can be a genuinely attractive interest to sell for a clean lump sum. If it's tied to an undrilled or expiring lease, we'll walk through that risk with you directly rather than pricing it as if it were a stable, long-lived asset."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the lease expires?",
+   "answer": "It terminates along with the lease. An overriding royalty interest only exists because of the specific lease it was carved from, so if that lease expires without a well drilled, or a producing well stops production and the lease lapses, the ORRI ends with it and reverts to nothing."
+  },
+  {
+   "question": "Is an ORRI the same as a royalty interest?",
+   "answer": "No. A royalty interest ties back to ownership of the mineral estate itself and survives a lease expiring. An ORRI is carved out of one specific lease and only exists as long as that lease does. The economics of receiving royalty payments look similar while the lease is active, but the underlying legal foundation is different."
+  },
+  {
+   "question": "How do I know if my interest is an ORRI?",
+   "answer": "Check the conveyance document that created it. If it references a specific oil and gas lease rather than the mineral estate, and doesn't grant any underlying mineral ownership, it's likely an ORRI. We can review the language with you if it's unclear."
+  },
+  {
+   "question": "Are ORRIs worth less than mineral rights?",
+   "answer": "It depends heavily on the status of the underlying lease. An ORRI on a well that's been held by production for years can be a solid, comparatively stable asset. One tied to an undrilled or soon-to-expire lease carries real risk of terminating with no value, which affects what a buyer will pay."
+  }
+ ],
+ "status": "written",
+ "wordCount": 935,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsutah-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "metaTitle": "Dividing Mineral Rights in a Utah Divorce Settlement",
+ "metaDescription": "Mineral interests acquired or inherited during a marriage need a clear valuation before a Utah divorce settlement can divide them fairly. Here's how that works.",
+ "heroLead": "A mineral interest is an unusual asset to split in a divorce settlement, because unlike a house or an investment account, its value depends on a well that neither spouse operates and can't control.",
+ "intro": [
+  "When a Utah divorce settlement reaches the marital estate's mineral interests, the two spouses are usually looking at one of three paths: one keeps the interest and buys out the other's share, both continue as co-owners after the decree, or the interest is sold and the proceeds are split according to the settlement. We've worked with families at each of those forks, and the honest answer is that the right path depends less on what the interest is theoretically worth and more on what each spouse actually wants going forward.",
+  "Utah is an equitable-distribution state, not a community-property state, which means a mineral interest acquired during the marriage doesn't automatically split 50/50 — it gets valued and allocated as part of the broader settlement, alongside the house, retirement accounts, and everything else. That valuation step is where most of the friction shows up, because a royalty check that varies month to month based on production and price doesn't lend itself to a clean number the way a bank balance does."
+ ],
+ "sections": [
+  {
+   "heading": "Why co-ownership after divorce rarely works cleanly",
+   "paragraphs": [
+    "We've seen settlements that leave both former spouses as co-owners of the same mineral interest, usually because it seemed simpler at the time than agreeing on a buyout number. In practice, that arrangement tends to resurface as a source of friction years later: division orders require both signatures or both to be listed correctly, address changes for one party can delay royalty payments to both, and any future decision to lease or sell requires two people who are no longer married to agree. Families who've been through this usually tell us they wish they'd resolved it at the time of the decree rather than carrying it forward.",
+    "A clean sale at the time of settlement avoids that outcome. If both spouses agree the interest should be liquidated rather than divided in kind, a sale converts an illiquid, hard-to-value asset into cash that can be split according to whatever percentage the settlement calls for, with no further coordination required between two people whose financial lives are otherwise separating."
+   ]
+  },
+  {
+   "heading": "Getting to a number both sides can accept",
+   "paragraphs": [
+    "Because we buy mineral interests directly, we're often asked by one spouse, both spouses jointly, or their attorneys to provide a written offer that can function as a benchmark for the settlement's asset schedule — even in cases where the interest ultimately isn't sold to us. A concrete offer, backed by recent royalty history and current operator activity on the unit, tends to be more useful in mediation than a theoretical valuation with no market behind it, because both sides can see the number came from an actual buyer rather than a formula.",
+    "If the settlement calls for one spouse to buy out the other's share instead of selling to a third party, that same offer can anchor the buyout price so neither side feels they gave up more or less than the interest is worth. We're happy to provide documentation either way, whether or not a sale to us ends up happening."
+   ]
+  },
+  {
+   "heading": "Timing against the settlement calendar",
+   "paragraphs": [
+    "Divorce settlements often run on court deadlines that don't wait for oil and gas title work to catch up. Confirming exactly what's owned — which county, which section, what decimal interest, whether it's mineral rights, a royalty interest, or something else — can take longer than either spouse expects if the paperwork from the original acquisition or inheritance wasn't kept organized. We'd rather start that confirmation early, in parallel with the rest of the settlement negotiation, than have it become the item holding up a final decree.",
+    "Talk to your divorce attorney and, where tax basis or capital gains treatment is in question, your CPA about how a mineral asset should be characterized and reported as part of the settlement. We can supply the production and offer documentation; the legal and tax framing of the divorce itself is theirs to advise on."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a mineral interest community property in Utah?",
+   "answer": "Utah is an equitable-distribution state, so a mineral interest is not automatically split evenly. It's valued and allocated as part of the overall settlement based on when and how it was acquired, similar to other marital assets, rather than under a fixed 50/50 community-property rule."
+  },
+  {
+   "question": "Can you provide an offer just for settlement purposes?",
+   "answer": "Yes. We regularly provide written offers on Utah mineral interests that attorneys or mediators use as a valuation benchmark in a divorce settlement, whether or not the interest is ultimately sold to us."
+  },
+  {
+   "question": "What if we can't agree on whether to sell or keep it?",
+   "answer": "That disagreement is common, and it's usually resolved by getting an actual number on the table first. Once both spouses can see what a sale would produce compared with continuing to hold and split royalty checks, the decision tends to get easier."
+  },
+  {
+   "question": "Does it matter if the interest was inherited by one spouse?",
+   "answer": "It can. Inherited property is often treated differently from property acquired jointly during the marriage, which affects how it's characterized in the settlement. That's a question for your divorce attorney, but it's worth raising early since it can change whether the interest is even part of the divisible estate."
+  }
+ ],
+ "status": "written",
+ "wordCount": 928,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsutah-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

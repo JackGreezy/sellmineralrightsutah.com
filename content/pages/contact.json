@@ -1,0 +1,84 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | Utah Mineral Rights Buyer",
+ "metaDescription": "Reach out about a Utah mineral or royalty interest, a question on title or SITLA state trust boundaries, or a second opinion on an existing offer.",
+ "heroLead": "Whether you're ready to request a range or just have a question about what you own, this is the place to start.",
+ "intro": [
+  "We hear from owners at every stage of the decision, from someone who just found an old deed in a filing cabinet and doesn't know what it means, to someone comparing a written offer from another company and wanting a second opinion. Both are welcome. You don't need to already have a plan to reach out.",
+  "Below is what to expect when you contact us and a few notes on what's helpful to include, though none of it is required to start the conversation."
+ ],
+ "sections": [
+  {
+   "heading": "What to send",
+   "paragraphs": [
+    "A phone number or email where we can reach you, the county your minerals are located in if you know it, and a short description of your situation — inherited interest, active lease, quiet fractional share, whatever applies. If you have a deed or recent royalty statement handy, attaching it speeds things up, but it's not required for a first conversation.",
+    "If your question is about title rather than value — for instance, whether your acreage touches a SITLA state trust section, or what an heirship affidavit involves — say so, and we'll answer what we can and point you toward an attorney for anything that needs one."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "Someone will follow up directly, usually within a business day or two, to understand your situation and answer initial questions. If you're interested in a valuation, we'll walk through what documents would help move that forward. If you just have questions and aren't ready to decide anything, that's a perfectly fine reason to reach out too."
+   ]
+  },
+  {
+   "heading": "For existing offers from another buyer",
+   "paragraphs": [
+    "If you already have a written offer in hand and want a second read before deciding, send it along with whatever deed or production information you have. We'll give you an honest comparison, whether or not it favors us, because we'd rather you make a well-informed decision than feel like the only option you saw was the right one."
+   ]
+  },
+  {
+   "heading": "If you're managing an interest for family members",
+   "paragraphs": [
+    "It's common for one sibling, adult child, or cousin to end up as the point of contact for a mineral interest held by several family members, whether because they live closest to the paperwork or simply volunteered first. If that's your situation, let us know upfront how many co-owners are involved and whether the interest has already been formally divided among heirs. We can walk through what documentation each owner will eventually need without requiring everyone to be on the first call.",
+    "For estates still in probate, or for an aging relative's mineral holdings you're helping evaluate as part of broader financial planning, we're glad to have a preliminary conversation even before every legal step is finalized, so you have a sense of scale and timeline to work with."
+   ]
+  },
+  {
+   "heading": "Questions about your specific county or play",
+   "paragraphs": [
+    "If your question is more about the geology or activity in your area than about a transaction, that's welcome too. Owners often want to understand whether their acreage sits in the core of the Uinta oil fairway near Duchesne and Uintah counties, on the Paradox Basin gas trend further south in San Juan or Grand County, or near a SITLA state trust section, before they decide whether it's worth pursuing a conversation about value at all. We're happy to talk through what we know about your specific area."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the best way to reach you?",
+   "answer": "Use the contact form on this site with your phone number or email, and a brief description of your interest and county. We'll follow up directly from there."
+  },
+  {
+   "question": "Do I need to already know what my mineral rights are worth before contacting you?",
+   "answer": "No. Most owners don't, and that's a normal starting point. We'll help you understand what you have as part of the conversation."
+  },
+  {
+   "question": "Can I get a second opinion on an offer I already received from someone else?",
+   "answer": "Yes. Send us the offer along with your deed or statements if you have them, and we'll give you an honest comparison."
+  },
+  {
+   "question": "How quickly will someone respond?",
+   "answer": "Typically within a business day or two. If your situation is time-sensitive, mention that when you reach out and we'll do our best to prioritize it."
+  },
+  {
+   "question": "I'm handling this on behalf of an elderly relative. Can I contact you directly?",
+   "answer": "Yes. Let us know your relationship to the owner and, if applicable, whether you hold power of attorney or another formal authorization, and we'll work with you to gather what's needed while respecting the actual owner's decision-making role."
+  },
+  {
+   "question": "Can I ask a general question without giving you my mineral interest details yet?",
+   "answer": "Of course. Plenty of first conversations start with general questions about title, value, or the local play before any specific documents are shared, and that's a perfectly good way to begin."
+  },
+  {
+   "question": "What if my mineral interest is outside the Uinta or Paradox basins?",
+   "answer": "Let us know the county and details anyway. We focus primarily on those two basins, but we're glad to take a look at interests elsewhere in Utah and point you in a useful direction either way."
+  }
+ ],
+ "wordCount": 894,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightsutah-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Utah Mineral Rights Buyer",
+ "metaDescription": "A Utah-focused mineral and royalty buyer grounded in real title and production diligence, not generic per-acre offers or pressure tactics.",
+ "heroLead": "We buy mineral and royalty interests across Utah's Uinta and Paradox basins, and our approach starts with your title and production history, not a form letter.",
+ "intro": [
+  "Most companies buying mineral rights nationally treat Utah the same way they treat every other state — a per-acre number pulled from a spreadsheet, mailed out with a short deadline attached. We work differently because we work exclusively in this state's geology, which means we actually know the difference between a section adjoining SITLA state trust land and one that doesn't, and why waxy crude from the Uinta Basin prices differently than a barrel of Permian oil.",
+  "That specificity is the whole point. A mineral or royalty interest is a real asset with real production history and real title complexity behind it, and it deserves to be evaluated as one, not reduced to a form-letter number."
+ ],
+ "sections": [
+  {
+   "heading": "How we think about an interest",
+   "paragraphs": [
+    "We approach every interest the way a family office looks at any income-generating asset: what has it actually produced, what does the decline curve suggest about its remaining life, and what is happening in the immediate vicinity that could change that trajectory. That framing applies whether you're sitting on a large, actively producing royalty interest or a small fractional share inherited from a grandparent's original allotment that's paid almost nothing in years.",
+    "We're not appraisers, attorneys, or CPAs, and we won't pretend to be. What we bring is direct familiarity with how Utah mineral title actually works, including the checkerboard pattern of state trust and federal split-estate ownership that runs through much of the Uinta Basin, and a straightforward process for turning that into a fair, well-explained offer."
+   ]
+  },
+  {
+   "heading": "Why we focus on Utah specifically",
+   "paragraphs": [
+    "Generalist national buyers often miss the details that actually matter here — that Uinta crude has to be heated and trucked or railed rather than piped, which shows up as a real and persistent price differential rather than a red flag; that SITLA's state trust leasing runs on its own schedule and can slow division order reconciliation on adjoining private parcels; that many family interests trace back through original homestead patents split across multiple heirs over several generations. Working narrowly in this geology means we spend less time explaining the basics and more time getting your specific interest right.",
+    "We think that specialization serves owners better than being one storefront among fifty a national buyer runs across every basin in the country."
+   ]
+  },
+  {
+   "heading": "What you can expect from a conversation with us",
+   "paragraphs": [
+    "No pressure to decide on a deadline. A real explanation of how we arrived at any number we quote, tied to your deed, your production history, and activity near your acreage. A straight answer if leasing or simply holding looks like the better move for your situation instead of selling. And patience with the paperwork side, since Utah mineral title, particularly on inherited or checkerboard acreage, often takes longer to untangle than owners expect going in."
+   ]
+  },
+  {
+   "heading": "A note on the families we work with",
+   "paragraphs": [
+    "Many of the owners who reach out are managing a mineral interest alongside other family financial matters — settling an estate, dividing assets among siblings, or simply trying to get an accurate picture of what an aging relative's holdings are actually worth. We've found that treating the mineral interest as one piece of that larger picture, rather than an isolated transaction, tends to produce better outcomes for everyone involved. That's part of why we're comfortable walking away from a conversation where selling clearly isn't the right move for the family.",
+    "It's also why we take the time to explain the mechanics behind a number rather than simply stating one. An owner who understands decline curves, checkerboard title, and how Uinta crude prices makes a better long-term decision than one who's just told to trust a figure."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a licensed appraiser, attorney, or CPA?",
+   "answer": "No. We're a mineral and royalty buyer. We encourage you to consult your own attorney or CPA for legal or tax questions specific to your situation, and we're glad to work alongside whoever you choose."
+  },
+  {
+   "question": "Do you only buy producing interests?",
+   "answer": "No. We look at producing royalty interests as well as non-producing or unleased minerals, particularly where there's activity nearby that suggests future development."
+  },
+  {
+   "question": "How is your process different from a mailer offering a fixed price?",
+   "answer": "We review your actual deed and production history before quoting a range, rather than sending a generic per-acre number based only on your county and acreage size from public tax records."
+  },
+  {
+   "question": "What areas of Utah do you focus on?",
+   "answer": "Primarily the Uinta Basin in Duchesne and Uintah counties and the Paradox Basin in San Juan and Grand counties, where the bulk of the state's active oil and gas mineral ownership is concentrated."
+  },
+  {
+   "question": "Will you tell me if selling isn't the right choice for my situation?",
+   "answer": "Yes. If leasing or simply holding the interest looks like the better fit given your production trend, nearby activity, or personal circumstances, we'll say so plainly rather than pushing toward a sale that doesn't serve you."
+  },
+  {
+   "question": "How do you stay current on Uinta and Paradox Basin activity?",
+   "answer": "We track nearby drilling permits, production trends, and state trust leasing activity on an ongoing basis, which is part of how we're able to give owners a grounded, specific range rather than a generic estimate."
+  }
+ ],
+ "wordCount": 911,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsutah-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

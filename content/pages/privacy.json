@@ -1,0 +1,84 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Utah Mineral Rights Buyer",
+ "metaDescription": "How we collect, use, and protect information you share with us when requesting a range on a Utah mineral or royalty interest.",
+ "heroLead": "This page explains, in plain language, what information we collect when you reach out to us and how it's handled.",
+ "intro": [
+  "We collect only what's needed to evaluate your mineral or royalty interest and communicate with you about it — nothing more, and nothing sold or shared beyond what's described here. Because much of what you send us in this process, deeds, statements, county and legal descriptions, is already tied to public county records, we want to be clear about how the additional personal details you share with us directly are handled."
+ ],
+ "sections": [
+  {
+   "heading": "What we collect",
+   "paragraphs": [
+    "When you contact us or request a range, we typically collect your name, phone number, email address, and details about your mineral interest, such as county, legal description, acreage, and any deed or royalty statement documents you choose to share. If you use our website, we may also collect basic technical information like browser type and general location through standard analytics tools, similar to most websites.",
+    "We do not ask for financial account numbers, passwords, or Social Security numbers through our website contact forms. If those become relevant later in a closing process, they're handled through a title company or closing agent under their own security practices, not collected by us directly through this site."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "Information you share is used to evaluate your interest, prepare a range, communicate with you about your options, and, if you choose to proceed, complete the closing paperwork for a transaction. We may also use general, non-identifying information to understand how people use our site and improve it over time.",
+    "We do not sell your personal information to third parties. We may share information with service providers who help us operate, such as a title company or closing agent, but only as needed to complete a transaction you've asked us to help with."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold about you, request that we correct inaccurate information, or ask us to delete information that isn't needed for a completed or pending transaction. Reach out through our contact page with any request, and we'll respond promptly."
+   ]
+  },
+  {
+   "heading": "Documents shared during title and closing review",
+   "paragraphs": [
+    "Deeds, probate orders, heirship affidavits, and royalty statements you share with us as part of a valuation or closing process are used solely to evaluate and, if you proceed, close your transaction. We retain these records for as long as reasonably necessary to support the transaction and to meet any applicable legal or recordkeeping obligations, after which they are handled according to our standard retention practices.",
+    "If you share information on behalf of a family member, such as an aging parent or an estate you're helping administer, we treat that information with the same care and use it only for the purpose you've described to us."
+   ]
+  },
+  {
+   "heading": "Children's privacy and third-party links",
+   "paragraphs": [
+    "This site is intended for adults handling their own or a family estate's mineral interests and is not directed at children. We do not knowingly collect information from minors. If our site links to a county recorder's office, a state agency such as SITLA, or another third-party resource, we're not responsible for that third party's own privacy practices, and we'd encourage you to review their policies separately if you visit those sites."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my information to other companies?",
+   "answer": "No. We don't sell personal information to third parties. We may share what's necessary with a title company or closing agent solely to complete a transaction you've requested."
+  },
+  {
+   "question": "Will you contact me if I just request a range and don't move forward?",
+   "answer": "We may follow up once or twice to see if you have questions, but we won't add you to ongoing marketing without your consent, and you can ask us to stop contacting you at any time."
+  },
+  {
+   "question": "How do I request that my information be deleted?",
+   "answer": "Contact us through the contact page and ask. We'll delete what we can, subject to any records we're legally required to retain related to a completed transaction."
+  },
+  {
+   "question": "Is information I send you through the contact form secure?",
+   "answer": "We use standard security practices to protect data submitted through our site, but as with any online form, we recommend not sending highly sensitive financial account information through the contact form itself."
+  },
+  {
+   "question": "How long do you keep my deed and title documents on file?",
+   "answer": "We retain them as long as reasonably necessary to support an active or completed transaction and any related legal obligations, and can discuss deletion of records tied to a transaction that never closed upon request."
+  },
+  {
+   "question": "Do you share my information with other mineral buyers?",
+   "answer": "No. We don't share your personal information or interest details with competing buyers. Any sharing with service providers, such as a title company, is limited to what's needed to complete a transaction you've requested."
+  },
+  {
+   "question": "What if I'm submitting information on behalf of a family estate?",
+   "answer": "We treat that information the same way, using it only for the purpose you've described, whether that's a preliminary valuation for an estate inventory or an active sale on behalf of multiple heirs."
+  }
+ ],
+ "wordCount": 872,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsutah-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

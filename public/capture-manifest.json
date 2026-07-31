@@ -1,0 +1,32 @@
+{
+  "src": "https://eos.com/",
+  "host": "eos.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://eos.com/",
+      "bytes": 491112
+    },
+    {
+      "label": "about",
+      "url": "https://eos.com/company/",
+      "bytes": 448780
+    },
+    {
+      "label": "contact",
+      "url": "https://eos.com/contact-us/",
+      "bytes": 407780
+    },
+    {
+      "label": "index",
+      "url": "https://eos.com/solutions/",
+      "bytes": 305977
+    },
+    {
+      "label": "slug",
+      "url": "https://eos.com/industries/oil-gas-and-mining/",
+      "bytes": 284275
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

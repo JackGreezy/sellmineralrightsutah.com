@@ -1,0 +1,29 @@
+{
+  "domain": "sellmineralrightsutah.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsutah.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsutah.com",
+  "reference": "https://eos.com/",
+  "refhost": "eos-com",
+  "biz": "Sell Mineral Rights Utah",
+  "businessName": "Sell Mineral Rights Utah",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "UTAH",
+  "city": "Vernal",
+  "state": "Utah",
+  "region": "Vernal, the Uinta Basin, the Paradox Basin, and mineral-owning counties across Utah",
+  "phone": "435-555-1039",
+  "email": "utah@sellmineralrightsutah.com",
+  "address": "374 E Main St, Vernal, UT 84078",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsutah-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsutah.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Utah Guides", "/resources"],
+    ["Utah Areas", "/locations"]
+  ],
+  "cta": ["Request a Utah Mineral Review", "/contact#contact-form"]
+}

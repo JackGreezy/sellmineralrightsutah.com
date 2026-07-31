@@ -1,0 +1,74 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Utah Mineral Rights Are Appraised or Valued",
+ "metaDescription": "The methods buyers and appraisers actually use to value Utah mineral and royalty interests, from discounted cash flow to comparable sales.",
+ "heroLead": "There is no single formula that spits out what a mineral interest is worth, and anyone who quotes you a number without looking at your production history is skipping steps.",
+ "intro": [
+  "Valuing a mineral or royalty interest is closer to appraising a small, irregular income stream than pricing a piece of real estate. Two methods dominate in practice, and most serious buyers use some blend of both, weighted by how much real production history exists to work from.",
+  "Understanding the mechanics doesn't require a finance background. It mainly requires knowing what inputs move the number, so you can judge whether a range you're given is grounded in your actual interest or just a guess."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted cash flow, for producing interests",
+   "paragraphs": [
+    "If your interest is already receiving royalty checks, the most defensible approach projects the remaining production forward using the well's decline curve, applies a forward price deck for oil or gas, subtracts expected deductions, and discounts that future stream of income back to a present value using a discount rate that reflects the risk involved. Higher decline, more price volatility, and more uncertain remaining well life all push the discount rate up and the resulting value down.",
+    "In practice this means two interests generating the same check today can be worth quite different amounts depending on how steep their decline curve looks and how much production history exists to project from. A well in its fifth year of a long, shallow tail is a more predictable, and often more valuable, asset than a brand-new well still on its steep early decline."
+   ]
+  },
+  {
+   "heading": "Comparable sales, for unleased or undeveloped acreage",
+   "paragraphs": [
+    "For minerals with no production history — inherited acreage that's never been drilled, or land at the edge of an active play — buyers lean more heavily on what similar tracts nearby have recently sold or leased for, adjusted for position relative to current drilling. Acreage in the core of the Uinta oil fairway around Duchesne and Uintah counties, where waxy crude wells have a long track record, generally carries more speculative value than acreage on the fringe of the Paradox Basin gas trend where activity has been sporadic.",
+    "This method is inherently softer than a cash-flow model, because it depends on judgment about how likely future drilling actually is, not on a stream of checks you can point to."
+   ]
+  },
+  {
+   "heading": "Where state trust and split-estate boundaries factor in",
+   "paragraphs": [
+    "Acreage adjoining SITLA state trust sections sometimes benefits from that land's own leasing and development history, since state trust parcels are often actively managed and leased on a predictable schedule, which can be a useful data point for nearby private minerals. On split estate, where the surface is owned separately from the minerals, a buyer will also weigh how straightforward surface access has historically been for drilling operations in that specific area, since access friction can affect how quickly a well gets drilled."
+   ]
+  },
+  {
+   "heading": "Why two buyers can land on different numbers",
+   "paragraphs": [
+    "It's common for owners to shop an interest and see meaningfully different ranges from different buyers on the exact same acreage. Part of that spread is simply different discount rates or price decks between firms, but part of it is also how much diligence each buyer actually put into your specific deed and production history versus how much they're guessing from county-level averages. A wider, better-explained range is usually more trustworthy than a narrow number offered without any reasoning attached to it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can you tell me exactly what my mineral rights are worth over the phone?",
+   "answer": "We can give you an honest preliminary range based on what you describe, but a firm number requires reviewing your deed, recent statements, and nearby activity. Value here genuinely varies with production and market conditions, so we won't quote a fixed price sight unseen."
+  },
+  {
+   "question": "Why would the same acreage be worth more to one buyer than another?",
+   "answer": "Buyers use different discount rates, different price decks, and different judgments about future drilling likelihood. That's normal, which is why it's reasonable to compare more than one offer, especially on a larger or producing interest."
+  },
+  {
+   "question": "Does a professional appraisal cost money?",
+   "answer": "A formal third-party appraisal typically does, and is more common for large interests or estate purposes. For most sale decisions, a buyer's valuation based on your production and title documents serves the same purpose without a separate fee."
+  },
+  {
+   "question": "How much does commodity price affect the value right now?",
+   "answer": "Meaningfully. Oil and gas prices move the forward price deck used in valuation, so the same interest can be quoted differently a few months apart depending on where prices sit and where they're expected to go."
+  },
+  {
+   "question": "Should I get a formal appraisal before selling?",
+   "answer": "For most sale decisions it isn't necessary, since a buyer's own valuation based on your deed and production documents serves a similar purpose. A formal, credentialed appraisal is more often used for estate or legal purposes, such as settling a probate value among multiple heirs."
+  },
+  {
+   "question": "Does a buyer need to visit my property to appraise the minerals?",
+   "answer": "No. Mineral valuation relies on production records, title documents, and public data about nearby drilling rather than a physical site visit, since you're valuing the subsurface interest, not the surface itself."
+  }
+ ],
+ "wordCount": 889,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsutah-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How It Works: Selling Utah Mineral Rights",
+ "metaDescription": "Our step-by-step process for buying Utah mineral and royalty interests, from first documents to closing, explained plainly and without pressure.",
+ "heroLead": "The process of selling a mineral interest is shorter than most owners expect, once title and production questions are answered clearly.",
+ "intro": [
+  "We designed this process to move at the owner's pace, not ours. Some interests close within a few weeks; others take longer while an heirship document or a title question near a state trust boundary gets resolved. Below is the sequence, start to finish, so you know what to expect at each stage before you begin."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: tell us what you have",
+   "paragraphs": [
+    "Send us your county, roughly how many net mineral acres you hold, and whether the interest is currently producing. If you have a deed or recent royalty statements handy, include those too, but don't let missing paperwork stop you from starting the conversation — we can often work from partial information at first and fill in the rest together.",
+    "This step is informational only. Nothing is owed on either side yet, and there's no cost or commitment to share this information with us."
+   ]
+  },
+  {
+   "heading": "Step two: we review and give you a range",
+   "paragraphs": [
+    "We look at your production history if the interest is producing, or nearby drilling activity if it isn't, and factor in the specifics of your play position — whether that's the Uinta oil fairway around Duchesne and Uintah counties or the Paradox gas trend further south. If your acreage touches a SITLA state trust section or sits on federal split estate, we account for that in how we assess title timing as well.",
+    "You'll get an honest range grounded in what we actually reviewed, not a flat number pulled from a spreadsheet. We're glad to walk through the reasoning behind it on a call if that's useful."
+   ]
+  },
+  {
+   "heading": "Step three: you decide, on your own timeline",
+   "paragraphs": [
+    "Take the range to a family member, an attorney, or another buyer if you want a second opinion — we'd rather you feel confident than rushed. If you decide to move forward, we'll confirm the final terms in writing before anything is signed. If you decide to lease instead, or hold, we're glad to have had the conversation regardless."
+   ]
+  },
+  {
+   "heading": "Step four: title work and closing",
+   "paragraphs": [
+    "Once terms are agreed, we prepare the mineral deed and closing documents, confirm your identity and any heirship documentation needed, and route the deed for your signature and notarization. On straightforward, single-owner title this typically takes a few weeks from agreement to funded closing. On multi-heir interests, or acreage where a boundary against state trust or federal land needs confirming, it can take longer — we'll tell you honestly if we expect delay rather than promising a date we can't keep.",
+    "Funds move once the signed, notarized deed is received and ready to record with the county. We handle recording as part of closing."
+   ]
+  },
+  {
+   "heading": "What we do behind the scenes",
+   "paragraphs": [
+    "While you're reviewing terms, we're independently confirming the legal description against county plat records, checking whether your acreage sits near a SITLA state trust section or a split-estate boundary, and pulling recent production or activity data for the surrounding township. That work happens on our end so it doesn't slow you down, and it's part of why our written offers tend to hold up once the formal title review begins rather than shifting at the last minute."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take from first contact to funded closing?",
+   "answer": "Straightforward, clean-title interests often close within a few weeks. Multi-heir or checkerboard title situations can take longer while documentation is gathered."
+  },
+  {
+   "question": "Is there any cost to getting a range from you?",
+   "answer": "No. Reviewing your interest and providing a preliminary range costs you nothing and commits you to nothing."
+  },
+  {
+   "question": "What if I decide not to sell after getting an offer?",
+   "answer": "That's entirely your call. There's no obligation once you have a number in hand, and we'd rather you make the right decision for your situation than feel pressured into one."
+  },
+  {
+   "question": "Do I need an attorney present at closing?",
+   "answer": "Not required, but you're welcome to have one review the deed and closing documents. We're comfortable working alongside your attorney or CPA at any stage."
+  },
+  {
+   "question": "What happens if a title issue turns up after I've already agreed to sell?",
+   "answer": "We'll explain exactly what was found and what's needed to resolve it, whether that's a missing heirship affidavit or a boundary clarification. Terms already agreed to don't change unless the underlying ownership facts turn out to differ from what was described."
+  },
+  {
+   "question": "Can the process move faster if my title is already clean?",
+   "answer": "Yes. Interests with a clear, single-owner deed and recent recorded history, particularly those already producing with statements in hand, tend to move through review and closing the fastest."
+  },
+  {
+   "question": "Do you handle every step of closing, or do I need my own title company?",
+   "answer": "We coordinate the deed preparation and recording as part of our standard process, though you're always welcome to bring your own attorney or title company into the review if you'd prefer that extra layer."
+  },
+  {
+   "question": "Will you keep me updated if closing takes longer than expected?",
+   "answer": "Yes. If a title question or missing signature is holding things up, we'll tell you plainly what's pending and roughly what it will take to resolve, rather than leaving you to guess at the delay."
+  }
+ ],
+ "wordCount": 894,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsutah-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

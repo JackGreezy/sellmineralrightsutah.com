@@ -1,0 +1,61 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate: Utah Split Ownership Guide",
+ "metaDescription": "In Utah, the surface and minerals beneath it can be owned by different people entirely. Here's how split estates work and what it means for a mineral owner.",
+ "heroLead": "Two people can hold legitimate, fully recognized ownership of the exact same piece of Utah ground: one owns the surface, the other owns what's beneath it, and neither needs the other's permission to sell their own piece.",
+ "intro": [
+  "This split, formally called a severed or split estate, is one of the more confusing concepts for families who inherit mineral rights without inheriting the land those minerals sit under, or who inherit the surface without the minerals. It's also one of the most common ownership patterns in Utah, particularly in counties where homesteads and land patents from the early twentieth century reserved minerals separately, and in areas with heavy checkerboard SITLA and federal ownership woven through private surface.",
+  "Understanding which estate you own, and what rights come with it, matters because the two estates interact in specific, legally defined ways even though they're independently owned. A mineral owner generally has the right to access the surface reasonably to develop those minerals, even over a surface owner's objection, subject to compensation and reasonable-use limitations. That dynamic surprises a lot of people the first time they encounter it, on either side of the split."
+ ],
+ "sections": [
+  {
+   "heading": "How Utah land ended up split this way",
+   "paragraphs": [
+    "Much of Utah's severed mineral ownership traces back to homestead-era federal land patents, where the government reserved certain minerals when transferring surface title to homesteaders, or to later private transactions where a landowner sold the surface but kept the minerals, or vice versa. In the Uinta Basin specifically, the checkerboard pattern created by the original Uinta Reservation allotment process and subsequent land openings layered state SITLA, federal BLM, tribal trust, and private fee ownership across what looks, on a map, like a single contiguous area.",
+    "For a private mineral owner, none of that history changes your rights day to day, but it does mean your neighbor's parcel, even one that looks identical to yours on a plat map, may sit under a completely different ownership and leasing framework. That's worth confirming rather than assuming when you're trying to understand your own position."
+   ]
+  },
+  {
+   "heading": "What each estate can and can't do",
+   "paragraphs": [
+    "The mineral estate is generally considered the 'dominant' estate under longstanding oil and gas law, meaning the mineral owner (or the operator they've leased to) has an implied right to use as much of the surface as is reasonably necessary to explore for and produce minerals, including building roads, well pads, and pipelines. This right isn't unlimited — Utah law and most modern leases require reasonable accommodation of the surface owner's existing use, and surface damage compensation is standard practice — but it does mean a surface owner generally can't block reasonable mineral development outright.",
+    "A surface owner without any mineral interest has no claim to royalty income from production beneath their land and no say in leasing decisions. Conversely, a mineral owner with no surface interest has no right to build a house or graze cattle on the land above their minerals. The two estates are genuinely separate bundles of rights, each transferable and valuable on its own terms."
+   ]
+  },
+  {
+   "heading": "What this means if you're selling",
+   "paragraphs": [
+    "If you own mineral rights without the surface, that's entirely normal and fully sellable on its own — we buy mineral interests all the time from owners with no surface connection to the land whatsoever, and it doesn't complicate the transaction. What matters for pricing is the mineral estate itself: production history, lease status, and nearby activity, not who owns or uses the surface above it.",
+    "If you're unsure whether your family's interest includes the surface, the mineral estate, or both, the county recorder's chain of title will clarify it, typically through a reservation or exception clause in a deed somewhere in the history. We can help track that down as part of confirming exactly what you're able to sell."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights if I don't own the surface land?",
+   "answer": "Yes. Mineral rights and surface rights are independently transferable once severed. Owning only the minerals doesn't limit your ability to sell that interest on its own."
+  },
+  {
+   "question": "Does the surface owner have to approve drilling on my mineral interest?",
+   "answer": "Generally no. The mineral estate is typically treated as the dominant estate, meaning the operator has an implied right to reasonable surface use for development, though Utah practice and most leases require reasonable accommodation and compensation for surface damage."
+  },
+  {
+   "question": "How do I find out if my minerals are severed from the surface?",
+   "answer": "Check the county recorder's chain of title for a mineral reservation or exception clause in a past deed. That's typically where a severance would be documented, sometimes going back to an original homestead patent."
+  },
+  {
+   "question": "If I own the surface, do I get any royalty from drilling underneath it?",
+   "answer": "Not unless you also own the mineral rights. A surface-only owner has no claim to production royalty, though Utah practice generally entitles them to compensation for surface damage caused by drilling operations."
+  }
+ ],
+ "status": "written",
+ "wordCount": 851,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsutah-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

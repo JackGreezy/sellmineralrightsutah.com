@@ -1,0 +1,62 @@
+{
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "metaTitle": "Selling Non-Producing Mineral Rights in Utah",
+ "metaDescription": "No wells, no current lease, no royalty checks. Non-producing Utah mineral acreage still has value tied to nearby activity. Here's how it's assessed.",
+ "heroLead": "Minerals with no wells and no active lease are the hardest position to size up on your own, because there's no royalty statement to point to and no obvious next step to take.",
+ "intro": [
+  "Non-producing is a broad category, and the first thing worth sorting out is which version of it applies to your acreage. Some Utah minerals have simply never been leased, sitting on land that's never attracted operator interest. Others were leased once, took a bonus payment, and the lease expired at the end of its primary term without a well ever being drilled, returning the minerals to unencumbered status. Both look the same on paper — no current royalty income — but they carry a different history, and that history is part of what shapes value.",
+  "Families holding non-producing minerals often assume there's nothing to do but wait, and in a sense that's true: there's no royalty check to manage and no division order paperwork to track. But 'nothing happening' on the surface doesn't mean the acreage has no value, especially if it sits near an active or expanding Utah play like the Uinta Basin, where operators periodically re-lease acreage that was previously passed over as drilling programs move and technology changes what's economic to develop."
+ ],
+ "sections": [
+  {
+   "heading": "Why proximity to activity is the main driver of value",
+   "paragraphs": [
+    "For non-producing acreage, the single biggest factor in what it's worth is how close it sits to current or recent drilling. Minerals a few miles from an active unit in Duchesne or Uintah county, with recent offset well results, carry real speculative value tied to the reasonable possibility they get leased and eventually drilled. The same acreage in a part of the county with no nearby activity and no operator interest in a decade carries much less, because there's less reason to expect that to change soon.",
+    "We look at Utah Division of Oil, Gas and Mining permit records, recent leasing activity in the township, and any historical lease or well history on your specific parcel to gauge where it falls on that spectrum. This is genuinely a different exercise from valuing a producing interest, and it leans more on judgment about probability than on a statement you can point to."
+   ]
+  },
+  {
+   "heading": "The case for selling versus the case for waiting",
+   "paragraphs": [
+    "The honest tradeoff with non-producing minerals is that selling now converts an asset with uncertain, possibly distant upside into a known number today, while holding preserves the chance of a future lease bonus and, eventually, royalty income if drilling occurs. Neither is wrong. Families with no particular attachment to the specific parcel, who inherited it along with other assets and would rather not track an intangible position indefinitely, often prefer the certainty of a sale. Families closer to the area, with some sense that activity is building nearby, sometimes prefer to hold and see what develops.",
+    "One thing we'd caution against is assuming non-producing minerals are worth nothing and letting them sit unmanaged for decades on the theory that there's no harm in waiting. Ownership records get harder to trace the longer they go unattended, particularly across multiple heirs, and a parcel that becomes hard to document loses practical value even if the geology underneath hasn't changed."
+   ]
+  },
+  {
+   "heading": "What we need to evaluate a non-producing position",
+   "paragraphs": [
+    "We'll want the legal description — county, township, range, section — and whatever ownership documentation you have, whether that's an old deed, a prior lease, or probate paperwork establishing how you came to own it. From there we pull permit and leasing history around your parcel and put together a number that reflects realistic proximity to activity, not a generic per-acre guess.",
+    "If your acreage has never generated any paperwork at all beyond an old deed, that's fine — it's common with Utah minerals that were severed generations ago and simply never came up in a leasing cycle. We can work from the county recorder's records to confirm what you own before pricing it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are non-producing mineral rights worth anything?",
+   "answer": "They can be, particularly if the acreage sits near current or recent drilling activity. Value is speculative rather than tied to a royalty statement, driven mainly by the reasonable likelihood of future leasing and development based on nearby permit and well activity."
+  },
+  {
+   "question": "My minerals were leased once but the lease expired years ago. What now?",
+   "answer": "An expired lease with no well drilled returns your minerals to unencumbered status, meaning you're free to lease again, hold, or sell as fee minerals with no lease attached. We factor the prior leasing history in as one data point when assessing value."
+  },
+  {
+   "question": "How do you value acreage with no production history at all?",
+   "answer": "We look at proximity to current activity, recent permit filings in your township or section, and how the specific area of the county has trended, rather than any royalty statement, since none exists yet."
+  },
+  {
+   "question": "Should I just wait to see if it gets leased before selling?",
+   "answer": "That's a reasonable position if you're comfortable holding an asset with no income and uncertain timing. Selling now trades that uncertain upside for a known number today. Which makes more sense depends on your own patience for an illiquid, unpredictable asset versus your need for current liquidity."
+  }
+ ],
+ "status": "written",
+ "wordCount": 894,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightsutah-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

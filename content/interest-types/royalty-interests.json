@@ -1,0 +1,69 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Royalty Interests Explained for Utah Mineral Owners",
+ "metaDescription": "A royalty interest pays a share of production tied to your mineral ownership, without drilling costs. Here's how Utah royalty interests work and what drives value.",
+ "heroLead": "A royalty interest is the income-producing side of mineral ownership: the share of oil and gas revenue you receive once a well is drilled, without ever bearing a dollar of the drilling or operating cost.",
+ "intro": [
+  "When most Utah families talk about their mineral rights producing income, what they're actually describing is the royalty portion of that ownership. Once your minerals are leased and a well is drilled and begins producing, the lease's royalty clause entitles you to a fractional share of the value of production, calculated before drilling, equipment, and most day-to-day operating costs are deducted, though certain post-production costs like gathering and transportation are sometimes shared depending on your specific lease language.",
+  "This cost-free structure is what distinguishes a royalty interest from a working interest, and it's the reason royalty ownership is generally the more attractive position for a family that isn't in the oil and gas operating business themselves. You don't get called for cash calls when a well needs repair, you're not exposed to plugging and abandonment liability, and you don't need any operational expertise to hold the interest. You simply receive a check, or don't, depending on production and price, tied to your fractional decimal ownership."
+ ],
+ "sections": [
+  {
+   "heading": "How the royalty fraction gets set and applied",
+   "paragraphs": [
+    "The royalty rate itself, commonly expressed as a fraction like one-eighth, three-sixteenths, or one-fifth, gets negotiated at the time your minerals are leased, and Utah operators over the past decade have generally offered higher royalty fractions on more competitive, actively sought acreage than on speculative or flank positions. Once set in the lease, that fraction generally stays fixed for the life of the lease, applied against your decimal share of whatever unit the well is drilled on.",
+    "Your actual decimal interest — the number that shows up on your division order and determines your specific dollar amount each month — reflects both your royalty fraction and your percentage ownership of the spacing or drilling unit the well was pooled into, which may be larger than just your own tract if the unit combines acreage from multiple owners."
+   ]
+  },
+  {
+   "heading": "Reading a royalty statement over time",
+   "paragraphs": [
+    "A royalty check that's declining month over month usually reflects natural production decline, which is normal for essentially every well and doesn't by itself signal a problem — wells produce most heavily in their early months or years and taper from there. What's worth paying closer attention to is a sudden change unrelated to typical decline, like a check that stops entirely, a deduction category that appears without explanation, or a change in the paying party following an operator sale.",
+    "We regularly help Utah owners read through several years of royalty statements as part of pricing an offer, because that trailing history, not any single month's check, is what tells the real story about a well's production trajectory and what a buyer should reasonably expect going forward."
+   ]
+  },
+  {
+   "heading": "Selling a royalty interest",
+   "paragraphs": [
+    "A producing royalty interest with a solid statement history is generally the most straightforward interest type to value, since the income stream is already established and documented. We'll look at your trailing royalty payments, current commodity price context, the well or unit's likely remaining productive life based on its decline pattern, and any recent permitting nearby that might extend the unit's activity, to arrive at an offer.",
+    "If part of your royalty is producing and part is still under an undrilled lease or entirely unleased, we can price those pieces separately, or as a package, whichever makes more sense for your specific ownership picture."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to pay anything toward drilling costs as a royalty owner?",
+   "answer": "No. A royalty interest is free of drilling and most operating costs by design. You receive your fractional share of production value without bearing the expense of drilling, completing, or operating the well, which is the key distinction from a working interest."
+  },
+  {
+   "question": "Why did my royalty check go down even though the well is still producing?",
+   "answer": "Natural production decline is normal and expected for nearly every well, with output typically highest early on and tapering over time. A gradually declining check usually reflects that pattern rather than a problem, though a sudden change is worth investigating."
+  },
+  {
+   "question": "What's a typical royalty fraction in Utah?",
+   "answer": "Rates vary by lease and by how competitively sought the acreage was at the time it was leased, commonly ranging from around one-eighth to one-fifth or higher on more desirable positions. Your specific rate is set in your lease and stays fixed for its life."
+  },
+  {
+   "question": "How do you value a producing royalty interest?",
+   "answer": "Primarily from your trailing royalty statement history, the well or unit's decline pattern, current commodity price context, and any nearby permitting activity that could extend or add to production on your unit."
+  },
+  {
+   "question": "What if my royalty is spread across several wells on the same unit?",
+   "answer": "That's common once a unit sees infill drilling, and it usually strengthens the picture rather than complicating it, since each well's statement history gives us more data to work from when estimating the unit's remaining productive life and building an offer that reflects the full position."
+  },
+  {
+   "question": "Can I sell only part of my royalty interest?",
+   "answer": "In many cases, yes. Some owners prefer to sell a portion of their royalty while retaining the rest, which can make sense if you want partial liquidity now while keeping some ongoing income. Ask us to walk through what a partial sale would look like for your specific interest."
+  }
+ ],
+ "status": "written",
+ "wordCount": 937,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsutah-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

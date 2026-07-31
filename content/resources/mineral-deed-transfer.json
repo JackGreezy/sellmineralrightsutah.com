@@ -1,0 +1,75 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Utah Mineral Deed Transfer: How It Works",
+ "metaDescription": "How a mineral deed transfer actually closes in Utah, from drafting through county recording, and what can slow it down on checkerboard title.",
+ "heroLead": "The deed is the quiet, unglamorous document that does all the actual legal work in a mineral rights sale, and it deserves a closer look than most owners give it.",
+ "intro": [
+  "Everything that leads up to a mineral sale — the conversation, the offer, the agreed price — is really just negotiation toward one moment: a signed, notarized mineral deed being recorded in the county where the minerals sit. Understanding what that document does, and what can slow its path to the recorder's office, takes the mystery out of the closing process.",
+  "This is written for owners who've never transferred real property before, since most people haven't, and mineral deeds carry a few wrinkles that ordinary house closings don't."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually conveys",
+   "paragraphs": [
+    "A mineral deed transfers your ownership interest in the oil, gas, and associated minerals under a described tract, separate from any surface rights, which you retain unless the deed says otherwise. The legal description matters enormously — it typically references the section, township, and range under Utah's Public Land Survey grid, along with the county. Any error in that description, even a transposed number, can cause real problems tracing title later, so it's worth reading carefully before signing rather than trusting it was typed correctly.",
+    "The deed will also state whether you're conveying all of your interest or a fractional portion, and whether it includes any executive rights (the right to negotiate future leases) or is limited to a non-participating royalty interest. Know which one you're signing before you sign it."
+   ]
+  },
+  {
+   "heading": "Notarization and recording",
+   "paragraphs": [
+    "Utah, like every state, requires the deed to be signed in front of a notary public before it can be recorded. If you live out of state, this is usually handled through a local notary near you and the signed original mailed back, or in some cases through remote online notarization where available. Once notarized, the deed is recorded with the county recorder — Duchesne, Uintah, Grand, San Juan, or wherever the minerals are located — which puts the transfer on the public record and establishes your buyer's priority against later claims.",
+    "Recording is what actually protects the buyer's interest, so a legitimate buyer will move to record promptly after closing rather than sitting on a signed deed."
+   ]
+  },
+  {
+   "heading": "Where checkerboard title slows things down",
+   "paragraphs": [
+    "If your interest sits within or adjacent to a SITLA state trust section, or on federal split estate where mineral and surface ownership diverged decades ago, the title company or attorney handling closing may take extra time confirming the legal description doesn't overlap a state or federal boundary incorrectly. This is a title-clarity step, not a sign anything is wrong with your ownership — it's simply more common in Utah's checkerboard land pattern than in states with cleaner, contiguous private mineral tracts.",
+    "Multiple-heir interests add a similar wrinkle: if you inherited alongside siblings or cousins, each heir generally needs to sign their own deed for their own fractional share, or a single deed needs every heir's signature, notarized individually if they live in different places."
+   ]
+  },
+  {
+   "heading": "What we do to keep the process on track",
+   "paragraphs": [
+    "We draft the legal description directly against the county's official plat and cross-check it against your deed before anything goes out for signature, which is the step most likely to catch a boundary problem before it becomes a delay. We also confirm upfront whether any co-heirs need to sign alongside you, so the closing package is assembled once, correctly, rather than sent back and forth over missing signatures."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a lawyer to sign a mineral deed?",
+   "answer": "Not necessarily for a straightforward transfer, but it's reasonable to have an attorney review the legal description and deed language before you sign, particularly on a larger or multi-heir interest."
+  },
+  {
+   "question": "What if I live out of state — can I still complete the transfer?",
+   "answer": "Yes. This is common. The deed is typically mailed to you, signed in front of a local notary, and returned. Some closings can use remote online notarization depending on your state's rules."
+  },
+  {
+   "question": "Who pays the recording fee?",
+   "answer": "This is negotiated as part of the sale terms, but the buyer commonly covers recording costs as part of closing. Confirm this in writing before signing."
+  },
+  {
+   "question": "How long after signing does the deed actually record?",
+   "answer": "Usually within days to a couple of weeks, depending on the county recorder's processing time. Recording is what finalizes the transfer on public record."
+  },
+  {
+   "question": "What if the legal description in an old deed is unclear or hard to read?",
+   "answer": "This happens on older deeds tied back to original allotment or homestead patents. A title company or attorney can typically reconstruct the correct legal description from the county's plat records, though it may take a bit longer than a straightforward, clearly typed modern deed."
+  },
+  {
+   "question": "Is a mineral deed different from a regular warranty deed used for a house?",
+   "answer": "It's structured similarly but conveys only the mineral estate rather than surface property, and typically carries a more detailed legal description tied to the section, township, and range rather than a street address."
+  }
+ ],
+ "wordCount": 870,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsutah-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

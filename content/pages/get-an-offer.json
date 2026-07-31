@@ -1,0 +1,85 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Utah Mineral Rights",
+ "metaDescription": "Request a no-obligation range on your Utah mineral or royalty interest, reviewed against your deed, production history, and nearby activity.",
+ "heroLead": "Send us what you have on your interest and we'll come back with an honest, grounded range, not a number pulled from a template.",
+ "intro": [
+  "Requesting a range costs nothing and commits you to nothing. The more you can tell us upfront, the faster and more precise that first range will be, but incomplete information is a fine place to start — we'll tell you what's missing and help you track it down if needed.",
+  "This page walks through what to send and what happens after you do, so there are no surprises in the process."
+ ],
+ "sections": [
+  {
+   "heading": "What to include",
+   "paragraphs": [
+    "At minimum, tell us the county where your minerals sit and roughly how many net mineral acres you hold, if you know. If you have a copy of your deed, include it; if you inherited the interest, let us know whether probate or an heirship affidavit was completed. If the interest is producing, attach your most recent royalty statement or two, since real production and price data is what lets us move past a rough guess and into a grounded range.",
+    "If you're not sure about any of this, that's fine. Many owners come to us mid-way through figuring out what they actually hold, and we can help sort that out as part of the conversation rather than requiring it all upfront."
+   ]
+  },
+  {
+   "heading": "What happens after you send it",
+   "paragraphs": [
+    "We review what you've sent against production data and nearby activity for your specific township and range, factoring in whether your acreage sits in the core of the Uinta oil fairway, on the Paradox Basin gas trend, or somewhere in between. We'll come back with a preliminary range and an explanation of what's driving it, along with a note on anything in your title — an unresolved heirship, a boundary near SITLA state trust land — that might affect timing.",
+    "There's no pressure attached to a deadline. Take the time you need to review it, ask questions, or get a second opinion before deciding anything."
+   ]
+  },
+  {
+   "heading": "If you decide to move forward",
+   "paragraphs": [
+    "We'll put final terms in writing, prepare the mineral deed, and walk you through signing and notarization. Funds move once the signed deed is received and ready to record. If your interest involves multiple heirs, each owner typically needs to sign for their own fractional share, and we'll help coordinate that if it applies to you."
+   ]
+  },
+  {
+   "heading": "If your title needs work before we can close",
+   "paragraphs": [
+    "Not every interest arrives with clean, ready-to-close title, and that's fine. If we spot a gap in the deed chain, an heirship affidavit that was never filed, or a legal description that needs clarifying against a SITLA state trust boundary, we'll tell you exactly what's needed and, where useful, point you toward a local attorney or the right county office to resolve it. We'd rather flag a title issue early and work through it together than let it surface as a surprise later in the process.",
+    "None of this changes the range we've quoted unless the underlying facts about your ownership turn out to be different than described. It simply affects how long the paperwork stage takes."
+   ]
+  },
+  {
+   "heading": "A note on partial interests and portfolios",
+   "paragraphs": [
+    "If you hold mineral interests in more than one county, or a mix of producing and non-producing acreage, you don't need to bundle everything into one request. Many owners start by asking about their most active interest first, then circle back on smaller or quieter holdings once they have a sense of how the process works. Whatever pace suits your situation is fine with us."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to have all my documents ready before I contact you?",
+   "answer": "No. Send what you have, even if it's incomplete, and we'll help identify what's still needed as part of the conversation."
+  },
+  {
+   "question": "Will you send me a firm number right away?",
+   "answer": "We'll give you an honest preliminary range based on what you provide, which we refine as more documentation comes in. We avoid quoting firm numbers before reviewing real production and title information."
+  },
+  {
+   "question": "Is there any fee to request an offer?",
+   "answer": "No. Getting a range from us is free and has no strings attached."
+  },
+  {
+   "question": "What if I only want to sell part of my interest?",
+   "answer": "That's a common request. Let us know upfront and we'll structure the range and the deed around a partial sale, leaving the remainder in your name."
+  },
+  {
+   "question": "What if my title isn't fully resolved yet?",
+   "answer": "That's common, especially on inherited interests. Tell us what you know and we'll identify what still needs to be documented, whether that's a missing deed, an heirship affidavit, or a boundary question near state trust land."
+  },
+  {
+   "question": "Can I request a range for more than one mineral interest at once?",
+   "answer": "Yes. Send us what you have for each county or tract and we'll evaluate them individually, since production history and play position can differ significantly even between nearby parcels."
+  },
+  {
+   "question": "What if I've already gotten an offer somewhere else and just want a comparison?",
+   "answer": "Send it along with whatever deed or production documents you have. We'll give you an honest read on how it compares, whether or not that favors moving forward with us."
+  }
+ ],
+ "wordCount": 882,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsutah-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

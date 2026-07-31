@@ -1,0 +1,133 @@
+{
+  "_": "This voice belongs only to sellmineralrightsutah.com. It is a Utah mineral evidence console: calm, analytical, and grounded in Uinta Basin waxy crude, Paradox Basin gas, SITLA checkerboard ownership, tribal and federal boundaries, county legal descriptions, heat-and-haul deductions, paid decimals, and a written decision file. It is not a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Utah mineral evidence console",
+    "domain_lock": "sellmineralrightsutah.com",
+    "reusable": false,
+    "cadence": "locate the tract, identify the mineral owner, mark the land boundary, reconcile the paid decimal, separate heat-and-haul costs, test the basin evidence, write the decision file",
+    "lexicon": ["Uinta Basin", "Paradox Basin", "SITLA checkerboard", "legal description", "waxy crude", "heat-and-haul deduction", "paid decimal", "decision file"],
+    "avoid": ["first-person singular narration", "generic national-buyer copy", "instant value claims", "guaranteed drilling", "fabricated testimonials", "reusable voice pack"]
+  },
+  "scrub": [
+    ["\\bI['’]m\\b", "Sell Mineral Rights Utah is"],
+    ["\\bI['’]ve\\b", "Sell Mineral Rights Utah has"],
+    ["\\bI['’]ll\\b", "Sell Mineral Rights Utah will"],
+    ["\\bI['’]d\\b", "Sell Mineral Rights Utah would"],
+    ["\\bmyself\\b", "directly"],
+    ["\\bmy\\b", "the Utah review desk's"],
+    ["\\bme\\b", "the Utah review desk"],
+    ["\\bI\\b", "Sell Mineral Rights Utah"]
+  ],
+  "question_scrub": [
+    ["\\bHow do Sell Mineral Rights Utah\\b", "How do you"],
+    ["\\bDoes Sell Mineral Rights Utah\\b", "Do you"],
+    ["\\bCan Sell Mineral Rights Utah\\b", "Can you"],
+    ["\\bWhat if Sell Mineral Rights Utah\\b", "What if you"],
+    ["\\bIs Sell Mineral Rights Utah\\b", "Are you"],
+    ["\\bWill Sell Mineral Rights Utah\\b", "Will you"],
+    ["\\bShould Sell Mineral Rights Utah\\b", "Should you"],
+    ["\\bthe Utah review desk['’]s\\b", "your"],
+    ["\\bthe Utah review desk\\b", "you"],
+    ["\\bSell Mineral Rights Utah\\b", "you"]
+  ],
+  "heroes": [
+    ["Sell Mineral Rights in Utah", "A Utah mineral review that joins the county legal description, private or public land boundary, ownership fraction, paid decimal, Uinta or Paradox evidence, written offer, and recording plan."],
+    ["Map the Tract Before Comparing an Offer", "Township, range, section, quarter call, county, estate type, and ownership fraction establish the tract before basin activity is used as evidence."],
+    ["Separate the Check From the Basin Story", "A producing check reflects volumes, price, taxes, deductions, adjustments, and downtime. Nearby permits or wells are a different layer of evidence."],
+    ["Close With the Same Legal Description", "The purchase agreement, deed, retained rights, settlement statement, funding confirmation, and county recording should identify the same tract and fraction."]
+  ],
+  "copy": {
+    "home_eyebrow": "UTAH MINERAL EVIDENCE",
+    "home_title": "Sell Mineral Rights in Utah",
+    "home_meta": "Review Utah mineral rights through the legal description, land-status boundary, paid decimal, Uinta or Paradox evidence, written terms, and county recording.",
+    "home_intro_title": "Turn a Utah Mineral File Into a Clear Decision",
+    "home_intro": "A useful Utah mineral review keeps the tract, ownership fraction, land-status boundary, lease, paid decimal, production history, heat-and-haul costs, basin evidence, and written terms on one decision file.",
+    "home_situations_title": "Start With the Owner Situation",
+    "home_situations_body": "Inheritance, split family ownership, probate, a mailbox offer, quiet acreage, or a producing royalty determines which Utah record deserves attention first.",
+    "home_interests_title": "Identify the Interest Being Offered",
+    "home_interests_body": "Minerals, royalties, overrides, working interests, and surface rights transfer different powers and require different deed language.",
+    "home_basins_title": "Read the Basin After the Tract Is Located",
+    "home_basins": "Uinta and Paradox activity matters after the county, township, range, section, estate, lease, unit, and ownership fraction are established.",
+    "home_basins_body": "Uinta and Paradox activity matters after the county, township, range, section, estate, lease, unit, and ownership fraction are established.",
+    "home_resources_title": "Build a Utah Decision File",
+    "home_resources_body": "Deeds, leases, royalty statements, division orders, probate papers, operator records, land-status maps, and written offers answer separate questions.",
+    "home_locations_title": "Utah Coverage by Legal Description",
+    "home_locations_body": "The review follows private mineral tracts through Vernal and producing counties across eastern and southeastern Utah.",
+    "home_investing_title": "Underwrite the Paid Decimal, Not the Basin Label",
+    "home_investing": "Production decline, realized pricing, heat-and-haul deductions, taxes, unit participation, title expense, operator concentration, and liquidity belong in the investment case.",
+    "home_exchange_title": "Keep the Exchange Calendar Separate From Title Work",
+    "home_exchange": "A qualified intermediary and independent tax counsel should assess exchange treatment before closing or receipt of proceeds while Utah curative work follows its own written schedule.",
+    "hero_cta": "Request a Utah Mineral Review",
+    "index_tagline": "Use the {title} record to connect the owner question to the Utah legal description, land-status boundary, ownership fraction, paid decimal, basin evidence, and written next step.",
+    "detail_cta_title": "Put This Utah Interest on the Decision File",
+    "detail_cta_body": "Share the Utah county, owner name, interest type, producing status, and records already available. Do not submit bank credentials, government identification numbers, or original documents.",
+    "detail_followup": "Carry this topic back to the same tract, legal description, ownership fraction, land-status boundary, paid decimal, production record, and written terms.",
+    "faq_heading": "Questions at the Utah Evidence Desk",
+    "about_title": "A Utah Mineral Buyer Built Around the Tract Record",
+    "about_story_title": "The Legal Description Locates the Decision",
+    "about_story_body": "County, township, range, section, quarter calls, acreage, estate type, and ownership fraction define the interest under review.",
+    "about_scope_title": "The Land-Status Boundary Changes the File",
+    "about_scope_body": "Private minerals can sit beside SITLA, federal, tribal, or split-estate acreage. The review should state which ownership system applies to the tract being conveyed.",
+    "about_terms_title": "The Paid Decimal Needs a Documentary Source",
+    "about_terms_body": "Lease royalty, unit participation, production volumes, price, taxes, deductions, adjustments, and suspense should explain the amount actually paid.",
+    "about_roles_title": "Waxy Crude Economics Need Their Own Line",
+    "about_roles_body": "Uinta Basin gathering, heating, trucking, rail, refinery access, differentials, and deduction practices should not be hidden inside a generic shale assumption.",
+    "about_close_title": "The Owner Copy Matches the Utah Recording",
+    "about_close_body": "The agreement, deed, exact legal description, retained rights, settlement record, funding confirmation, and county recording should stay together.",
+    "contact_title": "Request a Utah Mineral Evidence Review",
+    "contact_intro": "Share the Utah county, owner name, interest type, producing status, and the decision that needs a clearer answer. The review can start with the records already available.",
+    "contact_form_title": "Start With the Utah Record in Hand",
+    "contact_form_body": "A deed, royalty statement, division order, lease, probate paper, or legal description can identify the next useful check.",
+    "footer_tagline": "Tract located. Land status marked. Decimal reconciled. Basin evidence tested. Terms written. Recording matched.",
+    "privacy": "Sell Mineral Rights Utah uses submitted contact, ownership, property, production, title, lease, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Qualified professionals should review decisions involving title, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Utah Tract Is Not in This Evidence File",
+    "nf_body": "Return to owner situations, interest types, basin records, Utah guides, location files, or the mineral-review form.",
+    "nf_cta": "Return to the Utah Evidence Desk"
+  },
+  "about_blocks": [
+    ["Locate the Tract", "County, township, range, section, quarter calls, acreage, estate type, and ownership fraction establish the Utah interest under review."],
+    ["Mark the Land Status", "Private, SITLA, federal, tribal, and split-estate boundaries should be separated so public-land context is never mistaken for private mineral ownership."],
+    ["Reconcile the Paid Decimal", "Division orders, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and recent statements should explain the paid line."],
+    ["Test the Basin Evidence", "Producing wells, decline, nearby permits, units, operator activity, Uinta waxy-crude logistics, and Paradox development are recorded as evidence with dates and sources."],
+    ["Match the Recording", "The offer, deed, retained-rights clause, settlement record, funding confirmation, and county recording should describe the same legal tract and fraction."],
+    ["Keep the Owner Copy", "The completed Utah file keeps the source deed, legal description, ownership calculation, land-status notes, paid records, written terms, settlement statement, funding confirmation, and county recording together for the owner."]
+  ],
+  "slug_ui": {
+    "faq_kicker": "UTAH EVIDENCE CHECK",
+    "faq_heading": "Resolve the Record Question Before the Offer Is Compared",
+    "faq_intro": "Each answer points back to a Utah legal description, land-status boundary, ownership fraction, paid line, unit record, production record, or written term that can be checked.",
+    "related_kicker": "CONNECTED DATA LAYERS",
+    "related_heading": "Carry the Same Tract Into the Next Review",
+    "related_intro": "Keep the legal description, land status, ownership fraction, paid decimal, and open evidence question from {item} visible while reviewing these {taxonomy} records.",
+    "related_action": "Open the Complete Utah Evidence Index"
+  },
+  "taxonomy_enrichment": {
+    "investing": [
+      ["Locate {name} on the Paid Record", "A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open."],
+      ["Separate the Uinta or Paradox Case", "Nearby wells, units, permits, operator activity, and a basin label can add context without proving future development. Base, downside, and upside cases need the same ownership fraction and paid decimal."],
+      ["Model Waxy-Crude Logistics Explicitly", "For Uinta production, realized pricing, heating, gathering, trucking or rail, refinery access, and other deductions should appear as separate assumptions rather than disappear inside a generic price deck."],
+      ["Preserve the Investment Trail", "Every material number should keep its source and date. The record should state the holding period, liquidity limits, title expense, tax questions, and the event that would invalidate the original case."],
+      ["Reconcile the Model to the Utah Conveyance", "{name} still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey."],
+      ["Stress the Paid Decimal Against Actual Statements", "The review should compare several statement months rather than treating one check as normal. Oil, gas, and natural-gas-liquids volumes, price, taxes, deductions, prior-period adjustments, downtime, and suspense releases can move independently. For nonproducing acreage, the file states clearly that permits, nearby wells, or operator activity are development evidence rather than current cash flow."],
+      ["Write the Downside Case Before the Upside Case", "A disciplined Utah mineral model tests lower volumes, weaker realized pricing, longer downtime, higher heat-and-haul costs, unresolved title expense, operator concentration, and delayed development before giving weight to upside permits or nearby activity. The downside case should show which assumption changes the value conclusion first."],
+      ["Set a Review Date for Every Material Assumption", "Production, operator activity, unit records, statement deductions, title status, and market liquidity can change on different schedules. The decision file assigns a source date and a future review date to each material assumption so the investment case can be updated without rebuilding the record from memory."]
+    ],
+    "exchange-1031": [
+      ["Place {name} on the Exchange Calendar", "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property."],
+      ["Keep Utah Curative Work and Federal Timing Distinct", "Deed work, probate, heirship, trusts, corrective instruments, and payor records can move on a different schedule from exchange deadlines. Each open item needs a responsible professional and written status."],
+      ["Match the Property Scope", "The sale agreement, deed, legal description, retained-rights language, settlement statement, intermediary instructions, and replacement identification should not quietly change acreage, estate, formation, depth, county, or ownership fraction."],
+      ["Keep a Complete Owner Copy", "The completed file should retain the agreement, recorded deed, exact legal description, settlement statement, intermediary instructions, identification notices, replacement documents, title correspondence, and recording information."],
+      ["Tie the Exchange File to the Conveyed Utah Interest", "{name} should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline."],
+      ["Document Every Handoff Before Closing", "The qualified intermediary handles exchange funds and required notices; independent tax counsel evaluates eligibility and reporting; title counsel addresses deed, entity, probate, trust, and curative questions; the closing team confirms the tract, estate, fraction, consideration, and recording package. A dated issue list reduces the risk that proceeds are received by the wrong party or an incomplete property description reaches a required notice."],
+      ["Reconcile Identification Language to the Replacement Record", "A replacement-property identification should be reviewed against the actual property records available at the time. Names, legal descriptions, county references, entity ownership, percentage interests, and stated alternatives need consistent language across the notice, purchase documents, title file, and closing instructions."],
+      ["Archive the Completed Exchange and Utah Title Files Together", "The final owner copy should retain intermediary instructions, dated identification notices, settlement statements, recorded conveyances, title correspondence, funding records, replacement-property documents, professional advice, and the Utah mineral file. Keeping both records together makes later reporting and ownership questions easier to answer."]
+    ]
+  },
+  "form_fields": [
+    ["name", "text", "Name", true],
+    ["email", "email", "Email", true],
+    ["phone", "tel", "Phone", true],
+    ["message", "textarea", "Message", true]
+  ]
+}

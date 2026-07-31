@@ -1,0 +1,53 @@
+{
+ "slug": "la-sal-ut",
+ "title": "Sell Mineral Rights in La Sal, UT",
+ "type": "city",
+ "kind": "cdp",
+ "county": "San Juan",
+ "group": "Paradox",
+ "primaryKeyword": "sell mineral rights la sal ut",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in La Sal, UT | San Juan County",
+ "metaDescription": "Own minerals near La Sal, Utah, at the base of the La Sal Mountains? We buy Paradox Basin interests directly with a written, no-obligation offer.",
+ "heroLead": "La Sal sits in the foothills of the mountain range that shares its name, a small ranching community where mineral ownership has stayed largely within the original settling families.",
+ "intro": [
+  "La Sal is a small unincorporated community at the base of the La Sal Mountains in northern San Juan County, close to the Grand County line and within reach of the broader Paradox Basin trend that includes the Cane Creek shale to the north. Ranching has always been the primary surface use here, and mineral interests often stayed with the ranching families through generations of inheritance without much attention paid to what the underlying rights might be worth.",
+  "We buy mineral and royalty interests near La Sal directly. If you hold a deed or division order tied to this area and are unsure what it is worth, send it over and we will confirm the details before quoting."
+ ],
+ "sections": [
+  {
+   "heading": "Mountain-foothill acreage and basin geology",
+   "paragraphs": [
+    "The La Sal Mountains themselves are a laccolithic intrusion, geologically distinct from the sedimentary Paradox Basin rock that surrounds them, which means mineral prospectivity varies meaningfully depending on whether your tract sits closer to the mountains or out on the surrounding basin floor. We confirm which applies to your specific legal description before discussing value, since the two settings carry very different production potential."
+   ]
+  },
+  {
+   "heading": "Ranching families and quiet ownership",
+   "paragraphs": [
+    "It is common for a La Sal-area mineral interest to have been passed down through a ranching family without ever being actively marketed or reviewed, sometimes for multiple generations. We do the work of tracing chain of title through the San Juan County Recorder's office so you are not expected to reconstruct the family history yourself before getting an answer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does being close to the La Sal Mountains affect my mineral rights?",
+   "answer": "It can, since the mountains themselves are geologically distinct from the surrounding sedimentary basin. We confirm which setting applies to your specific tract."
+  },
+  {
+   "question": "My family has owned this land for generations without reviewing the mineral rights. Where do we start?",
+   "answer": "Send us whatever documents you have and we will trace the chain of title and confirm your ownership before discussing value."
+  },
+  {
+   "question": "Is there current oil and gas activity near La Sal?",
+   "answer": "It depends on the specific tract's position relative to the Paradox Basin trend. We check this before making an offer."
+  }
+ ],
+ "status": "written",
+ "wordCount": 420,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-la-sal-ut.jpg",
+  "alt": "Sell Mineral Rights in La Sal, UT location",
+  "width": 1600,
+  "height": 1000
+ }
+}

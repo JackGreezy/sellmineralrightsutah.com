@@ -1,0 +1,62 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights in Utah: Keep or Sell?",
+ "metaDescription": "You've inherited a Utah mineral interest and now have to decide whether to hold it or sell. Here's how the step-up in basis and the practical realities factor in.",
+ "heroLead": "Inheriting a mineral interest hands you an asset your parents or grandparents may have held for decades without ever revisiting the question of whether it still made sense to keep it.",
+ "intro": [
+  "Most of the inherited mineral interests we see in Utah were acquired the old-fashioned way — a family homestead or allotment that severed the minerals from the surface generations ago, or a lease bonus check that arrived once and was never followed up on. The person who passed it down usually didn't think of it as a financial asset requiring active decisions; it was just something that came with the land, or came after the land was sold and the minerals weren't. Whoever inherits it now is often the first person in the family to actually ask what it's worth and whether holding it still makes sense.",
+  "That question deserves a real answer, not a reflexive one in either direction. Some heirs assume mineral rights are basically worthless because the check is small or nonexistent; others assume they should hold forever because 'that's what the family always did.' Neither instinct accounts for where your specific interest sits relative to current drilling activity, what condition the title is in, or what role a single concentrated, illiquid asset should play in your own portfolio versus your parents' or grandparents' generation."
+ ],
+ "sections": [
+  {
+   "heading": "The step-up in basis changes the math",
+   "paragraphs": [
+    "One of the most important and most overlooked facts for an heir is that inherited mineral rights typically receive a stepped-up cost basis to fair market value as of the date of death, rather than carrying forward whatever the original owner paid or was deemed to have paid decades earlier. In practical terms, that often means a sale shortly after inheriting produces little or no taxable capital gain, because the basis has effectively reset close to current value. This is a meaningful advantage over selling an interest you've held and appreciated for years yourself, and it's worth having your CPA confirm the specifics for your estate before you decide.",
+    "That basis reset is also why we encourage heirs not to feel rushed into either decision. There's no tax penalty for taking time to get an appraisal or offer, confirm the title transferred correctly through probate, and understand the production history before deciding whether to sell or hold — the step-up doesn't expire on a short clock the way some other estate provisions do."
+   ]
+  },
+  {
+   "heading": "Getting the title cleanly into your name first",
+   "paragraphs": [
+    "Before anything can be sold, the county recorder's records need to reflect that you're the current owner, which usually means the interest passed through probate, an affidavit for small estates, or a formal transfer-on-death mechanism, and the resulting document was recorded in the county where the minerals sit. If several siblings or cousins inherited jointly, each heir's undivided share is generally separately transferable, so one heir choosing to sell doesn't require the others to do the same.",
+    "This step trips up more families than the valuation does. We routinely walk Utah heirs through what a title examiner will want to see, and we can often get started on an offer in parallel with the last pieces of that paperwork being finalized, so the process doesn't feel like it's stalled waiting on the county."
+   ]
+  },
+  {
+   "heading": "Deciding what role this asset should play now",
+   "paragraphs": [
+    "A mineral interest that made sense for a grandparent who lived in the county, watched the field develop, and had decades of runway to let it play out doesn't automatically make sense for a grandchild who lives out of state, has no relationship to the operator, and would rather have liquidity for a house, retirement contribution, or debt payoff. There's no obligation to replicate the prior owner's holding pattern just because it's what you inherited.",
+    "We're happy to put a number in front of you so the decision is concrete rather than theoretical — what a sale produces today, based on your actual production history and the operator's current activity, against what continuing to hold looks like. From there it's genuinely your call, and either one is a reasonable answer depending on your own financial picture."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I owe capital gains tax if I sell inherited minerals?",
+   "answer": "Often very little, because inherited mineral rights typically get a stepped-up cost basis to fair market value at the date of death, which can substantially reduce or eliminate taxable gain on a sale shortly after inheriting. Confirm the specifics with your CPA, since the exact basis and any gain depend on your estate's facts."
+  },
+  {
+   "question": "Do all the heirs need to agree to sell?",
+   "answer": "No, if the interest passed to multiple heirs as tenants in common, each person's undivided share is typically separately transferable. One heir can sell their portion independently of what siblings or cousins decide to do with theirs."
+  },
+  {
+   "question": "What if the title hasn't been transferred out of the deceased's name yet?",
+   "answer": "That's common and usually needs to be resolved through probate or an affidavit process before a sale can close, with the transfer recorded at the county. We can often begin an offer in parallel while that paperwork is finishing up."
+  },
+  {
+   "question": "Is there a deadline to decide whether to sell?",
+   "answer": "No, there's no tax-driven rush. The step-up in basis doesn't expire on a short clock, so you can take the time to confirm production history, title status, and your own financial priorities before deciding."
+  }
+ ],
+ "status": "written",
+ "wordCount": 928,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsutah-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
