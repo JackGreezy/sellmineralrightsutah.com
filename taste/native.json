@@ -1,0 +1,19 @@
+{
+  "classes": {
+    "header a.rr-header-cta": "btn btn-primary1",
+    "#contact-form button[type=submit]": "btn btn-primary1"
+  },
+  "remove": {"all": [], "slug": []},
+  "slug_order": ["faq", "related", "cta"],
+  "slug_mounts": {
+    "related": "main.wrapper",
+    "cta": "main.wrapper"
+  },
+  "templates": {
+    "faq": "<section class=\"section-benefits\"><header class=\"title-section\"><h2>{heading}</h2></header><div class=\"row row-cols-1 g-4\">{items}</div></section>",
+    "faq_item": "<div class=\"col d-flex\"><div class=\"card radius-md p-4 p-sm-5 p-md-6\"><div class=\"col\"><h3 class=\"h4 text-accent-secondary-1 mb-1\">{q}</h3><div class=\"text-primary\">{a}</div></div></div></div>",
+    "related": "<section class=\"section-helps-business bg-secondary\"><div class=\"container\"><header class=\"title-section text-center\"><h2>{heading}</h2></header><div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-center\">{items}</div><div class=\"btn-row justify-content-center mt-5\"><a class=\"btn btn-secondary\" href=\"{all_href}\">{all_label}</a></div></div></section>",
+    "related_item": "<div class=\"col d-flex\"><div class=\"card radius-md p-4 p-sm-5 p-md-6\"><h3 class=\"h4\">{name}</h3><p class=\"text-primary\">{teaser}</p><div class=\"btn-row mt-4\"><a class=\"btn btn-primary1\" href=\"{href}\">Read the guide</a></div></div></div>",
+    "cta": "<aside class=\"section-ready py-9\"><div class=\"container\"><div class=\"bg-secondary radius-md text-center p-4 p-sm-7\"><h2 class=\"h3\">{title}</h2><p>{intro}</p><div class=\"btn-row justify-content-center mt-5\"><a class=\"btn btn-primary1\" href=\"{contact_href}\">{label}</a><a class=\"btn btn-secondary\" href=\"{tel_href}\">Call {phone}</a></div></div></div></aside>"
+  }
+}

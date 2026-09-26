@@ -10,7 +10,7 @@
  },
  "taxonomies": {
   "locations": {
-   "title": "Locations",
+   "title": "Utah Areas",
    "route": "/locations",
    "items": [
     {
@@ -49,6 +49,9 @@
        "a": "<p>Usually faster than more remote basin locations, since Vernal is the Uintah County seat and the deed, lease, and probate records are centralized in one courthouse.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -95,6 +98,14 @@
        "a": "<p>Only fee interests, held under a standard recorded deed. Tribal trust and individual Indian allotment minerals require Bureau of Indian Affairs approval to transfer, and we don't purchase those.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-uintah-county-ut.jpg",
+      "alt": "Sell Mineral Rights in Uintah County, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -133,7 +144,7 @@
        "a": "<p>It affects the number, yes. Core acreage with newer, deeper wells generally supports a different multiple than older, shallower flank wells, so we confirm exactly where your tract sits before quoting.</p>"
       },
       {
-       "q": "your minerals are tied to a SITLA lease section — does that complicate a sale?",
+       "q": "Your minerals are tied to a SITLA lease section — does that complicate a sale?",
        "a": "<p>It adds a step to our title confirmation but does not change your ownership. We routinely buy interests adjacent to or pooled with SITLA sections in Duchesne County.</p>"
       },
       {
@@ -145,6 +156,9 @@
        "a": "<p>Sometimes, depending on nearby permitting activity and whether the acreage is likely to see a well within the lease term. We will tell you honestly if an interest is not one we can price competitively right now.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -183,6 +197,9 @@
        "a": "<p>Yes. We prepare and record the conveyance with the Duchesne County recorder ourselves once you accept, so there's nothing further for you to file.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -217,6 +234,14 @@
        "a": "<p>Generally faster than more remote parts of the basin, given the proximity to the Uintah County Recorder's office.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-naples-ut.jpg",
+      "alt": "Sell Mineral Rights in Naples, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -243,7 +268,7 @@
        "a": "<p>Generally not the ownership itself, but it can affect surface access and development timing in some cases, which we check as part of confirming your interest.</p>"
       },
       {
-       "q": "your family has never actively managed this interest. Where do we start?",
+       "q": "Your family has never actively managed this interest. Where do we start?",
        "a": "<p>Send us whatever deed or division order paperwork you have, and we will confirm the legal description and current status for you.</p>"
       },
       {
@@ -251,6 +276,9 @@
        "a": "<p>Not typically — it generally sits on the flank of the broader Uinta Basin trend rather than in a single named core field.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -273,7 +301,7 @@
      ],
      "faqs": [
       {
-       "q": "your mailing address is Duchesne, UT, but you is not sure where your minerals actually are. Can you find out?",
+       "q": "Your mailing address is Duchesne, UT, but you is not sure where your minerals actually are. Can you find out?",
        "a": "<p>Yes. We work from the legal description on your deed or division order to pin down the exact section, which may be different from where you or your family live.</p>"
       },
       {
@@ -285,6 +313,14 @@
        "a": "<p>Yes, we do that research as part of confirming your interest before we make an offer.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-duchesne-ut.jpg",
+      "alt": "Sell Mineral Rights in Duchesne, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -311,7 +347,7 @@
      ],
      "faqs": [
       {
-       "q": "your division order lists several wells for one interest. Is that normal near Myton?",
+       "q": "Your division order lists several wells for one interest. Is that normal near Myton?",
        "a": "<p>Yes, Monument Butte's dense well spacing means a single unit often includes multiple wells, and we account for all of them in our valuation.</p>"
       },
       {
@@ -327,6 +363,9 @@
        "a": "<p>Once we have your legal description matched against operator records, we can typically turn around a written offer within a few business days.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -353,7 +392,7 @@
        "a": "<p>It is generally flank acreage tied to the broader Uinta Basin trend rather than a separate field. We confirm the specific well or unit before quoting.</p>"
       },
       {
-       "q": "your royalty check is small and consistent. Does that mean the interest isn't worth much?",
+       "q": "Your royalty check is small and consistent. Does that mean the interest isn't worth much?",
        "a": "<p>Not necessarily. A small, steady check often reflects a mature, low-decline well, which we price as a predictable asset rather than dismissing.</p>"
       },
       {
@@ -361,6 +400,14 @@
        "a": "<p>Yes. We make offers on individual fractional interests and do not require other heirs to participate.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-ballard-ut.jpg",
+      "alt": "Sell Mineral Rights in Ballard, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -391,10 +438,13 @@
        "a": "<p>No, those transfer through a separate Bureau of Indian Affairs process. We only purchase privately held fee mineral interests.</p>"
       },
       {
-       "q": "your family's interest passed out of trust status generations ago. Does that change anything?",
+       "q": "Your family's interest passed out of trust status generations ago. Does that change anything?",
        "a": "<p>It can — once minerals are held in fee status, they generally transfer like any other private interest, and we can typically make a direct offer once that status is confirmed.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -437,6 +487,9 @@
        "a": "<p>That's still useful. We can start confirming your legal description and ownership even from incomplete paperwork.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -475,6 +528,9 @@
        "a": "<p>Generally it's shallower and less densely developed, being closer to the mountain front than the deeper basin core, though value still depends on your specific section and depth.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -497,7 +553,7 @@
      ],
      "faqs": [
       {
-       "q": "your interest is a very small fraction of a unit. Is it worth selling?",
+       "q": "Your interest is a very small fraction of a unit. Is it worth selling?",
        "a": "<p>Often yes, even fractions under one percent can carry real value depending on the well's production history. We will give you an honest number based on your actual share.</p>"
       },
       {
@@ -509,6 +565,9 @@
        "a": "<p>Send us your deed or division order and we will confirm your fractional share against the current well records.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -547,6 +606,9 @@
        "a": "<p>It can. Permitting and spacing near tribal trust land often involve BIA and tribal regulatory review in addition to state oversight, which we account for when assessing an interest's near-term activity outlook.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -585,6 +647,9 @@
        "a": "<p>No. We can buy an individual heir's undivided fractional interest without the rest of the family selling, though we're happy to make a coordinated offer if everyone wants to sell together.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -611,7 +676,7 @@
        "a": "<p>It generally reflects being in a well-studied, long-producing core, which supports a more confident valuation, but the actual number still depends on your specific well and fractional share.</p>"
       },
       {
-       "q": "your deed is very old and hard to read. Can you still work with it?",
+       "q": "Your deed is very old and hard to read. Can you still work with it?",
        "a": "<p>Yes. We regularly work from older deeds and division orders and can confirm the legal description and chain of title ourselves.</p>"
       },
       {
@@ -619,6 +684,9 @@
        "a": "<p>Often multiple decades, which gives us a stronger basis for a reserve estimate than a play with only a few years of data.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -645,7 +713,7 @@
        "a": "<p>It can be, since it sits in the historic core of the field with deep, long-lived wells, but we still price against your specific well data rather than a location premium alone.</p>"
       },
       {
-       "q": "your check has been the same small amount for years. Is that normal for Altamont?",
+       "q": "Your check has been the same small amount for years. Is that normal for Altamont?",
        "a": "<p>Yes, this field is known for gentle, long-tail decline once a well matures, so a steady modest check is typical rather than a warning sign.</p>"
       },
       {
@@ -653,6 +721,9 @@
        "a": "<p>Often yes. We routinely buy fractional interests as small as a few percent of a unit and will give you a straight answer based on your actual share.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -691,6 +762,9 @@
        "a": "<p>We research the recorded chain of title at the Duchesne County courthouse to confirm whether a severance ever occurred, rather than assuming the minerals simply followed the surface through each generation.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -725,6 +799,14 @@
        "a": "<p>Yes, we will walk through the ownership pattern for your specific section as part of confirming your interest before any offer is made.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-bonanza-ut.jpg",
+      "alt": "Sell Mineral Rights in Bonanza, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -763,7 +845,7 @@
        "a": "<p>Not directly, your fee ownership stands on its own, but it can affect how spacing units are assembled and how quickly a well gets permitted on or near your acreage.</p>"
       },
       {
-       "q": "your deed mentions uranium, not oil and gas. Do you buy that too?",
+       "q": "Your deed mentions uranium, not oil and gas. Do you buy that too?",
        "a": "<p>We evaluate uranium and vanadium interests on their own terms since they're a different market than oil and gas royalty, and can discuss options once we've reviewed your specific deed language.</p>"
       },
       {
@@ -771,6 +853,14 @@
        "a": "<p>It varies by trend. The Cane Creek area near Moab has seen renewed horizontal permitting in recent years, while the Aneth area to the south remains a mature, steadier field managed mostly through workovers rather than new drilling.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-san-juan-county-nm.jpg",
+      "alt": "Sell Mineral Rights in San Juan County, NM location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -801,7 +891,7 @@
      ],
      "faqs": [
       {
-       "q": "your deed only mentions coal, not gas — do you still own the coalbed methane rights?",
+       "q": "Your deed only mentions coal, not gas — do you still own the coalbed methane rights?",
        "a": "<p>It depends on the exact language and the date of the conveyance. We review the reservation or conveyance language as part of our title check and will tell you plainly if there is ambiguity before we make an offer.</p>"
       },
       {
@@ -809,7 +899,7 @@
        "a": "<p>Coalbed methane wells generally have a shallow, long decline curve compared to oil wells, so a steady check is typical for this play, not a red flag.</p>"
       },
       {
-       "q": "your interest is split among six cousins and nobody agrees on selling. What are our options?",
+       "q": "Your interest is split among six cousins and nobody agrees on selling. What are our options?",
        "a": "<p>We can make separate offers to each owner for their individual share, so anyone who wants to sell can, without needing the whole family to agree first.</p>"
       },
       {
@@ -821,6 +911,9 @@
        "a": "<p>Clean single-owner files often close in two to three weeks. Multi-heir or coal-severance title issues can extend that, and we will tell you upfront if yours is likely to.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -855,7 +948,7 @@
        "a": "<p>No. Coal leases are often structured differently, sometimes per-ton rather than percentage-of-value, so we read your specific lease terms before quoting rather than assuming a standard oil and gas rate applies.</p>"
       },
       {
-       "q": "your family's interest is near the San Rafael Swell — is that the same play as the coal country around Huntington?",
+       "q": "Your family's interest is near the San Rafael Swell — is that the same play as the coal country around Huntington?",
        "a": "<p>Not necessarily. That area often ties to older, shallower conventional oil and gas rather than the deep coal seams further north, so we confirm exactly which well or unit your interest is tied to before making an offer.</p>"
       },
       {
@@ -871,6 +964,14 @@
        "a": "<p>Clean single-owner files typically close in two to four weeks. Coal-severance or heirship title issues can add time, and we will tell you upfront if that applies to your file.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-emery-county-ut.jpg",
+      "alt": "Sell Mineral Rights in Emery County, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -905,7 +1006,7 @@
        "a": "<p>Not necessarily, but proximity to recent horizontal development generally supports a stronger offer. We confirm exactly where your tract sits relative to current activity before quoting.</p>"
       },
       {
-       "q": "your deed mentions potash as well as oil and gas — does that complicate things?",
+       "q": "Your deed mentions potash as well as oil and gas — does that complicate things?",
        "a": "<p>It adds a step to our title review since the Paradox Basin's evaporite geology means potash and oil-and-gas rights are sometimes reserved or conveyed separately, but we handle that confirmation as part of our standard process.</p>"
       },
       {
@@ -921,6 +1022,9 @@
        "a": "<p>Clean, single-owner files often close within two to four weeks. Interests requiring extra title curative work, common with older Paradox Basin deeds, can take longer, and we will flag that upfront.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -955,7 +1059,7 @@
        "a": "<p>It's possible with older Grand County deeds. We check the reservation and conveyance language as part of our title review.</p>"
       },
       {
-       "q": "your interest isn't producing yet but is near new development. Is it worth discussing?",
+       "q": "Your interest isn't producing yet but is near new development. Is it worth discussing?",
        "a": "<p>Yes, proximity to active drilling is a real factor we weigh even for interests without current production.</p>"
       },
       {
@@ -963,6 +1067,14 @@
        "a": "<p>No, surface development and tourism have no bearing on the mineral estate, which we value based on production history and legal description alone.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-moab-ut.jpg",
+      "alt": "Sell Mineral Rights in Moab, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -989,7 +1101,7 @@
      ],
      "faqs": [
       {
-       "q": "your mailing address is Monticello but you don't know exactly where your minerals are. Can you find out?",
+       "q": "Your mailing address is Monticello but you don't know exactly where your minerals are. Can you find out?",
        "a": "<p>Yes, we pull the legal description from your deed or division order to determine the actual location, which may be far from Monticello itself.</p>"
       },
       {
@@ -1005,6 +1117,14 @@
        "a": "<p>No, the mineral estate is a separate asset from surface ranching or grazing land, and a sale does not affect your ranching operation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-monticello-ut.jpg",
+      "alt": "Sell Mineral Rights in Monticello, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1027,7 +1147,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's deed is from the uranium mining era. Does that affect our oil and gas rights?",
+       "q": "Your family's deed is from the uranium mining era. Does that affect our oil and gas rights?",
        "a": "<p>It can, depending on the exact language. We review the deed's reservation and conveyance terms as part of our title confirmation.</p>"
       },
       {
@@ -1039,6 +1159,14 @@
        "a": "<p>Send us whatever deeds or division orders you have and we will trace the chain of title at the San Juan County Recorder's office.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-blanding-ut.jpg",
+      "alt": "Sell Mineral Rights in Blanding, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1073,6 +1201,9 @@
        "a": "<p>No, those go through the Bureau of Indian Affairs. We only purchase privately held fee mineral interests.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1115,6 +1246,14 @@
        "a": "<p>Any deed, patent, or division order you have, along with whatever family history you know about how the interest was acquired.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-montezuma-creek-ut.jpg",
+      "alt": "Sell Mineral Rights in Montezuma Creek, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1149,14 +1288,22 @@
        "a": "<p>It varies by section. We check production tied to your specific tract before making an offer rather than assuming based on the town.</p>"
       },
       {
-       "q": "your deed is old and hard to read. Can you still work with it?",
+       "q": "Your deed is old and hard to read. Can you still work with it?",
        "a": "<p>Yes, we regularly work from older deeds and can confirm the legal description ourselves.</p>"
       },
       {
-       "q": "your family's parcel was part of the original pioneer settlement along the river. Does that complicate things?",
+       "q": "Your family's parcel was part of the original pioneer settlement along the river. Does that complicate things?",
        "a": "<p>It can mean the deed language is brief by modern standards, but we routinely interpret older pioneer-era conveyances as part of our title work.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-bluff-ut.jpg",
+      "alt": "Sell Mineral Rights in Bluff, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1183,7 +1330,7 @@
        "a": "<p>Some of the earliest documented exploration in the region, dating back to the early 1900s, tied to visible surface oil seeps along the San Juan River.</p>"
       },
       {
-       "q": "your family's deed uses old or unusual language. Can you still work with it?",
+       "q": "Your family's deed uses old or unusual language. Can you still work with it?",
        "a": "<p>Yes, we regularly review older deeds and reservation language as part of confirming what a family currently owns.</p>"
       },
       {
@@ -1191,6 +1338,14 @@
        "a": "<p>We confirm this first, before discussing any offer, since the two follow very different transfer processes.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-mexican-hat-ut.jpg",
+      "alt": "Sell Mineral Rights in Mexican Hat, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1217,7 +1372,7 @@
        "a": "<p>It can, since the mountains themselves are geologically distinct from the surrounding sedimentary basin. We confirm which setting applies to your specific tract.</p>"
       },
       {
-       "q": "your family has owned this land for generations without reviewing the mineral rights. Where do we start?",
+       "q": "Your family has owned this land for generations without reviewing the mineral rights. Where do we start?",
        "a": "<p>Send us whatever documents you have and we will trace the chain of title and confirm your ownership before discussing value.</p>"
       },
       {
@@ -1225,6 +1380,14 @@
        "a": "<p>It depends on the specific tract's position relative to the Paradox Basin trend. We check this before making an offer.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-la-sal-ut.jpg",
+      "alt": "Sell Mineral Rights in La Sal, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1263,6 +1426,14 @@
        "a": "<p>That's your call to make, and we lay out both sides honestly. Waiting has upside if activity reaches your section, but a fractional interest not yet drilled also carries real uncertainty that a cash sale removes.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-spanish-valley-ut.jpg",
+      "alt": "Sell Mineral Rights in Spanish Valley, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1301,6 +1472,14 @@
        "a": "<p>Most current activity is workovers and secondary recovery on long-established Aneth-area units rather than new wells, which is typical for this mature stretch of the Paradox Basin.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-oljato-monument-valley-ut.jpg",
+      "alt": "Sell Mineral Rights in Oljato-Monument Valley, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1343,6 +1522,9 @@
        "a": "<p>The remoteness of Navajo Mountain historically limited settlement and mineral exploration, which is part of why privately held acreage here is uncommon.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1385,6 +1567,9 @@
        "a": "<p>No, that surface recreation growth has no bearing on the underlying mineral estate, which remains a separate asset.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1427,6 +1612,14 @@
        "a": "<p>Any deed, patent, or BIA correspondence you have, even partial records, helps us confirm ownership status accurately from the start.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-halchita-ut.jpg",
+      "alt": "Sell Mineral Rights in Halchita, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1465,6 +1658,14 @@
        "a": "<p>The broader area sits within reach of the mature Aneth field, where current activity is mostly workovers and secondary recovery on long-established units rather than new drilling.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-tselakai-dezza-ut.jpg",
+      "alt": "Sell Mineral Rights in Tselakai Dezza, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1495,7 +1696,7 @@
        "a": "<p>Most of it, yes, held by the Ute Mountain Ute Tribe. We don't purchase tribal trust or allotted interests, but fee parcels in the surrounding area of southern San Juan County are a different matter and something we can evaluate.</p>"
       },
       {
-       "q": "your deed mentions uranium and vanadium specifically. Is that the same as oil and gas rights?",
+       "q": "Your deed mentions uranium and vanadium specifically. Is that the same as oil and gas rights?",
        "a": "<p>No, it's a distinct mineral category tied to the region's mining history and the nearby mill. We evaluate uranium and vanadium interests separately from any oil and gas potential on the same land.</p>"
       },
       {
@@ -1503,6 +1704,14 @@
        "a": "<p>Send us your deed or probate paperwork and we'll research it against San Juan County records and tell you plainly whether it's fee land, tribal trust land, and which substances it covers.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-white-mesa-ut.jpg",
+      "alt": "Sell Mineral Rights in White Mesa, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1529,7 +1738,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's estate never mentioned mineral rights. Do we still own them?",
+       "q": "Your family's estate never mentioned mineral rights. Do we still own them?",
        "a": "<p>Possibly. Minerals often pass through probate implicitly along with the rest of an estate even when not itemized. A title search of the Carbon County records will confirm what actually transferred.</p>"
       },
       {
@@ -1541,6 +1750,9 @@
        "a": "<p>For Price interests, usually a matter of days, since the Carbon County recorder's records are centralized and organized compared to some smaller jurisdictions.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1567,7 +1779,7 @@
      ],
      "faqs": [
       {
-       "q": "your deed references a coal company that doesn't exist anymore. Can you still help?",
+       "q": "Your deed references a coal company that doesn't exist anymore. Can you still help?",
        "a": "<p>Yes, we research historic coal company chains of title regularly and can trace how an old company's interest connects to current ownership.</p>"
       },
       {
@@ -1583,6 +1795,14 @@
        "a": "<p>No, the surface business revival has no bearing on the mineral estate, which we value entirely on its own production history.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-helper-ut.jpg",
+      "alt": "Sell Mineral Rights in Helper, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1621,6 +1841,9 @@
        "a": "<p>That's common in this part of Carbon County and doesn't mean the interest lacks value. We price undeveloped interests more conservatively but are still often able to make a fair offer.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1647,7 +1870,7 @@
      ],
      "faqs": [
       {
-       "q": "your deed is from the early coal mining era. Can you still work with it?",
+       "q": "Your deed is from the early coal mining era. Can you still work with it?",
        "a": "<p>Yes, we review older coal-era deed language directly to confirm exactly what your family currently owns.</p>"
       },
       {
@@ -1659,10 +1882,13 @@
        "a": "<p>Often faster than more remote areas, given the proximity to Price and the county recorder's office.</p>"
       },
       {
-       "q": "your share is a small fraction of a parcel near Carbonville. Is it worth pursuing?",
+       "q": "Your share is a small fraction of a parcel near Carbonville. Is it worth pursuing?",
        "a": "<p>Often yes. We evaluate small fractional shares against actual production data rather than dismissing them based on size alone.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1689,7 +1915,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's interest traces back to the original coal mining era. Is that a problem?",
+       "q": "Your family's interest traces back to the original coal mining era. Is that a problem?",
        "a": "<p>No, and it often means there is solid documentation to work from. We handle the title research directly.</p>"
       },
       {
@@ -1701,10 +1927,18 @@
        "a": "<p>It varies by tract. We check current activity tied to your specific interest before quoting.</p>"
       },
       {
-       "q": "your family's deed references Dragerton or Columbia, not East Carbon. Is that a problem?",
+       "q": "Your family's deed references Dragerton or Columbia, not East Carbon. Is that a problem?",
        "a": "<p>No, we account for the earlier town names as part of our title research and can match the old references to the current legal description.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-east-carbon-ut.jpg",
+      "alt": "Sell Mineral Rights in East Carbon, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1731,7 +1965,7 @@
      ],
      "faqs": [
       {
-       "q": "your address says Price but you think your land is really Spring Glen. Does that matter?",
+       "q": "Your address says Price but you think your land is really Spring Glen. Does that matter?",
        "a": "<p>Not for our evaluation. We work from the legal description, section, township, and range, rather than the mailing address, so the distinction doesn't affect what we can offer.</p>"
       },
       {
@@ -1743,6 +1977,9 @@
        "a": "<p>That depends on your priorities. A small interest can still carry real value, and for owners who'd rather have liquid cash than manage a minor recurring royalty, selling makes practical sense even at modest size.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1781,6 +2018,9 @@
        "a": "<p>It depends entirely on the specific language. Some early Carbon County deeds reserved minerals broadly, others narrowly to coal. We read your actual deed before making assumptions.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1811,7 +2051,7 @@
        "a": "<p>The historic coal camp itself is largely abandoned, but coalbed methane development in the broader Wasatch Plateau field may affect nearby interests. We check this for your specific tract.</p>"
       },
       {
-       "q": "your deed is very old and references the coal camp directly. Can you work with that?",
+       "q": "Your deed is very old and references the coal camp directly. Can you work with that?",
        "a": "<p>Yes, we regularly research older coal-era deeds and can confirm the current legal description and status.</p>"
       },
       {
@@ -1823,6 +2063,14 @@
        "a": "<p>No, the abandonment of the surface camp has no bearing on mineral ownership. What matters is whether the coal or gas underneath is still capable of production.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-clear-creek-ut.jpg",
+      "alt": "Sell Mineral Rights in Clear Creek, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1861,6 +2109,9 @@
        "a": "<p>Yes. We can purchase an individual heir's undivided interest independently, though we're also happy to coordinate a combined offer if the whole family wants to sell together.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1895,7 +2146,7 @@
        "a": "<p>No, coal mining there wound down decades ago, though nearby coalbed methane development may affect some interests.</p>"
       },
       {
-       "q": "your family's interest went dormant after mining ended. Could it have new value now?",
+       "q": "Your family's interest went dormant after mining ended. Could it have new value now?",
        "a": "<p>It's possible if coalbed methane development has reached your specific tract. We check current status before making an offer.</p>"
       },
       {
@@ -1903,6 +2154,9 @@
        "a": "<p>No, historic preservation of the surface buildings has no bearing on the underlying mineral estate, which we evaluate on its own production and lease terms.</p>"
       }
      ],
+     "noindex": false,
+     "image": "",
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1945,6 +2199,14 @@
        "a": "<p>Yes, we pull deed books and probate filings directly from the recorder's office as part of confirming ownership before we make an offer.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-castle-dale-ut.jpg",
+      "alt": "Sell Mineral Rights in Castle Dale, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -1979,7 +2241,7 @@
        "a": "<p>It depends on the tract. We confirm current production before making an offer.</p>"
       },
       {
-       "q": "your family has owned this interest since the original homestead. Where do we start?",
+       "q": "Your family has owned this interest since the original homestead. Where do we start?",
        "a": "<p>Send us your deed or any division order paperwork and we will confirm the details through county and state records.</p>"
       },
       {
@@ -1987,6 +2249,14 @@
        "a": "<p>That's fine, we can start the process with incomplete documentation and fill in the gaps through county and operator records.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-huntington-ut.jpg",
+      "alt": "Sell Mineral Rights in Huntington, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2013,7 +2283,7 @@
      ],
      "faqs": [
       {
-       "q": "your deed says coal rights only. Can you still buy it?",
+       "q": "Your deed says coal rights only. Can you still buy it?",
        "a": "<p>Yes, if there's an active or historic coal lease or royalty tied to the interest. We evaluate coal, gas, and combined mineral interests separately since they're valued differently.</p>"
       },
       {
@@ -2025,6 +2295,14 @@
        "a": "<p>It helps but isn't required. We can typically locate the recorded lease and any amendments through the Emery County recorder once we have your legal description.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-orangeville-ut.jpg",
+      "alt": "Sell Mineral Rights in Orangeville, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2051,7 +2329,7 @@
      ],
      "faqs": [
       {
-       "q": "your family's interest has passed through several generations. Can you help trace ownership?",
+       "q": "Your family's interest has passed through several generations. Can you help trace ownership?",
        "a": "<p>Yes, we handle chain-of-title research through the Emery County Recorder's office as part of confirming your interest.</p>"
       },
       {
@@ -2067,6 +2345,14 @@
        "a": "<p>No, the mineral estate and the surface farmland are separate assets, and a mineral sale does not affect your farming operation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-ferron-ut.jpg",
+      "alt": "Sell Mineral Rights in Ferron, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2109,6 +2395,14 @@
        "a": "<p>Yes, we work with individual owners on their specific fractional share and do not require other co-owners to participate.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-emery-ut.jpg",
+      "alt": "Sell Mineral Rights in Emery, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2135,7 +2429,7 @@
      ],
      "faqs": [
       {
-       "q": "your interest is a small fraction inherited from a family farm. Is it worth anything?",
+       "q": "Your interest is a small fraction inherited from a family farm. Is it worth anything?",
        "a": "<p>Often yes, depending on the underlying well's production. We evaluate small fractional interests the same way we evaluate larger ones.</p>"
       },
       {
@@ -2151,6 +2445,14 @@
        "a": "<p>Yes, we match your paperwork against the current operator division order to confirm exactly what fraction you now hold.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-clawson-ut.jpg",
+      "alt": "Sell Mineral Rights in Clawson, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2177,7 +2479,7 @@
      ],
      "faqs": [
       {
-       "q": "your interest is a small piece of the original family farm. Is it worth selling?",
+       "q": "Your interest is a small piece of the original family farm. Is it worth selling?",
        "a": "<p>Often yes. We evaluate small fractional interests based on the underlying well's actual production, not only the size of the share.</p>"
       },
       {
@@ -2193,6 +2495,14 @@
        "a": "<p>Yes, we show the trailing royalty and production data behind the number rather than giving you a figure with no explanation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-elmo-ut.jpg",
+      "alt": "Sell Mineral Rights in Elmo, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2235,6 +2545,14 @@
        "a": "<p>No, a mineral sale is a separate transaction from your surface ranching operation and does not affect your grazing rights.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-cleveland-ut.jpg",
+      "alt": "Sell Mineral Rights in Cleveland, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2273,10 +2591,18 @@
        "a": "<p>We will tell you honestly what, if anything, we can offer given the current status.</p>"
       },
       {
-       "q": "your deed mentions minerals beyond oil and gas. Does that matter?",
+       "q": "Your deed mentions minerals beyond oil and gas. Does that matter?",
        "a": "<p>It can. We review the full reservation language on your deed to confirm exactly what mineral rights you hold before quoting.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-green-river-ut.jpg",
+      "alt": "Sell Mineral Rights in Green River, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2311,6 +2637,14 @@
        "a": "<p>Yes, a mineral sale is separate from your surface property and does not affect your home.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-castle-valley-ut.jpg",
+      "alt": "Sell Mineral Rights in Castle Valley, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2337,7 +2671,7 @@
      ],
      "faqs": [
       {
-       "q": "your old deed mentions uranium and vanadium, not oil and gas. What does that mean?",
+       "q": "Your old deed mentions uranium and vanadium, not oil and gas. What does that mean?",
        "a": "<p>It means the interest was written specifically for those substances during the mid-century mining boom. We evaluate uranium and vanadium interests on their own terms, separate from any oil and gas potential on the same land.</p>"
       },
       {
@@ -2349,12 +2683,21 @@
        "a": "<p>Yes. We research the Grand County recorder's records to reconstruct the chain of title starting from whatever partial information you have.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/locations/sell-mineral-rights-thompson-springs-ut.jpg",
+      "alt": "Sell Mineral Rights in Thompson Springs, UT location",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Utah minerals are priced tract by tract: county records, SITLA and federal boundaries, tribal trust land and the nearest producing units all change the read."
   },
   "situations": {
-   "title": "Situations",
+   "title": "Owner Situations",
    "route": "/situations",
    "items": [
     {
@@ -2397,6 +2740,14 @@
        "a": "<p>No, there's no tax-driven rush. The step-up in basis doesn't expire on a short clock, so you can take the time to confirm production history, title status, and your own financial priorities before deciding.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsutah-com.jpg",
+      "alt": "Inherited Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2439,6 +2790,14 @@
        "a": "<p>Some buyers rely on volume and a fast response before an owner has time to compare offers. A legitimate offer should still be reasonably available after you've taken time to check it against another number, so unusual pressure to sign fast is worth treating cautiously.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsutah-com.jpg",
+      "alt": "Got an Unsolicited Offer? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2481,6 +2840,14 @@
        "a": "<p>No, your location doesn't affect the interest's value. What matters is the production history, the operator's activity on your unit, and where your acreage sits relative to current drilling, same as for any Utah-based owner.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellmineralrightsutah-com.jpg",
+      "alt": "Out-of-State Owners mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2523,6 +2890,14 @@
        "a": "<p>Inherited mineral interests generally receive a cost basis reset to fair market value as of the date of death, which is one reason an accurate valuation at the time of the estate matters. Confirm the details with the estate's CPA or attorney, since exact treatment depends on the estate's facts.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "Minerals in Probate & Estates mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2549,7 +2924,7 @@
      ],
      "faqs": [
       {
-       "q": "your interest is only a few thousandths. Is it even worth selling?",
+       "q": "Your interest is only a few thousandths. Is it even worth selling?",
        "a": "<p>Often yes. We regularly buy small fractional interests because they consolidate into a larger position across a unit that's already fragmented among many heirs. The decimal size affects the dollar amount, not whether it's saleable.</p>"
       },
       {
@@ -2569,6 +2944,14 @@
        "a": "<p>Yes. We work from the county recorder's chain of title and your division order history to confirm your decimal interest before putting together an offer, which is usually the slower part of the process when an interest has passed through several generations.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsutah-com.jpg",
+      "alt": "Fractional & Small Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2611,6 +2994,14 @@
        "a": "<p>Permits filed with the Utah Division of Oil, Gas and Mining are public record. We check this as part of putting together an offer, and can walk you through what's showing on or near your specific section.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsutah-com.jpg",
+      "alt": "Leased but Undrilled mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2641,7 +3032,7 @@
        "a": "<p>They can be, particularly if the acreage sits near current or recent drilling activity. Value is speculative rather than tied to a royalty statement, driven mainly by the reasonable likelihood of future leasing and development based on nearby permit and well activity.</p>"
       },
       {
-       "q": "your minerals were leased once but the lease expired years ago. What now?",
+       "q": "Your minerals were leased once but the lease expired years ago. What now?",
        "a": "<p>An expired lease with no well drilled returns your minerals to unencumbered status, meaning you're free to lease again, hold, or sell as fee minerals with no lease attached. We factor the prior leasing history in as one data point when assessing value.</p>"
       },
       {
@@ -2653,6 +3044,14 @@
        "a": "<p>That's a reasonable position if you're comfortable holding an asset with no income and uncertain timing. Selling now trades that uncertain upside for a known number today. Which makes more sense depends on your own patience for an illiquid, unpredictable asset versus your need for current liquidity.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-non-producing-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "Non-Producing Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2695,6 +3094,14 @@
        "a": "<p>Not inherently, but it is a concentrated, illiquid, single-asset holding, which is the kind of position the prudent investor standard asks a trustee to weigh carefully rather than hold indefinitely without review.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "Trust-Owned Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2737,6 +3144,14 @@
        "a": "<p>In many cases, yes. Selling a portion of your interest while retaining the rest is often possible and can be a way to meet a specific liquidity need without giving up the entire position. Ask us about structuring it that way if a full sale isn't what you want.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-tax-or-liquidity-pressure-sellmineralrightsutah-com.jpg",
+      "alt": "Selling for Liquidity mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2779,9 +3194,18 @@
        "a": "<p>It can. Inherited property is often treated differently from property acquired jointly during the marriage, which affects how it's characterized in the settlement. That's a question for your divorce attorney, but it's worth raising early since it can change whether the interest is even part of the divisible estate.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsutah-com.jpg",
+      "alt": "Mineral Rights in Divorce mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Inheritance, an unsolicited letter, a trust or a need for cash each change which Utah record matters first. Start with the situation that matches the file on the table."
   },
   "interest-types": {
    "title": "Interest Types",
@@ -2827,6 +3251,14 @@
        "a": "<p>Yes, since mineral rights are their own distinct property interest once severed, they can be sold, leased, or passed down independently of whatever happens to the surface estate.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsutah-com.jpg",
+      "alt": "Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2877,6 +3309,14 @@
        "a": "<p>In many cases, yes. Some owners prefer to sell a portion of their royalty while retaining the rest, which can make sense if you want partial liquidity now while keeping some ongoing income. Ask us to walk through what a partial sale would look like for your specific interest.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsutah-com.jpg",
+      "alt": "Royalty Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2927,6 +3367,14 @@
        "a": "<p>Yes, the same way any other real property interest can. An NPRI created decades ago by one family member is often fractionalized further as it passes through subsequent generations, which is worth accounting for when confirming exactly what decimal share you hold before selling.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsutah-com.jpg",
+      "alt": "Non-Participating Royalty (NPRI) mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -2969,6 +3417,14 @@
        "a": "<p>Not unless you also own the mineral rights. A surface-only owner has no claim to production royalty, though Utah practice generally entitles them to compensation for surface damage caused by drilling operations.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsutah-com.jpg",
+      "alt": "Surface vs. Mineral Estate mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3011,6 +3467,14 @@
        "a": "<p>It depends heavily on the status of the underlying lease. An ORRI on a well that's been held by production for years can be a solid, comparatively stable asset. One tied to an undrilled or soon-to-expire lease carries real risk of terminating with no value, which affects what a buyer will pay.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightsutah-com.jpg",
+      "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3053,12 +3517,21 @@
        "a": "<p>It can, depending on the joint operating agreement and how the interest is structured. This is one of the reasons working interest valuations require more diligence than royalty interests, and it's something we review carefully before making an offer.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsutah-com.jpg",
+      "alt": "Working Interests mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "A mineral interest, a royalty, an override and a working interest carry different rights, burdens and paperwork. Identify the estate before any number is compared."
   },
   "basins": {
-   "title": "Basins",
+   "title": "Utah Basins",
    "route": "/basins",
    "items": [
     {
@@ -3089,7 +3562,7 @@
        "a": "<p>Green River formation crude in this basin is paraffinic, or waxy, meaning it solidifies at normal ambient temperatures and has traditionally required heated pipeline segments, insulated rail cars, or blending with lighter crude to move efficiently to market. That added handling cost has historically shown up as a price differential against benchmark crude, and it factors into how royalty income and a mineral interest's value are calculated.</p>"
       },
       {
-       "q": "your section is SITLA land next to your private minerals. Does that affect you?",
+       "q": "Your section is SITLA land next to your private minerals. Does that affect you?",
        "a": "<p>It can. SITLA manages its own leasing separately from fee mineral owners, and checkerboarded SITLA sections influence how an operator assembles a spacing or drilling unit around your acreage. It's worth confirming exactly which sections are SITLA, which are BLM, and which are private fee minerals before assuming your interest behaves like a neighbor's.</p>"
       },
       {
@@ -3105,12 +3578,21 @@
        "a": "<p>We start with your recent royalty statements, the operator's permitting pattern on your unit, and where your acreage sits relative to the core of Altamont-Bluebell or Monument Butte versus the flank. Given the waxy-crude differential and checkerboard ownership here, a generic per-acre number tends to miss the mark, so we'd rather work from your actual documentation.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/basins/mineral-rights-basins-uinta-basin-sellmineralrightsutah-com.jpg",
+      "alt": "Uinta Basin Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Uinta waxy crude and Paradox gas move on different logistics, operators and deductions. Read the basin only after the tract itself is located."
   },
   "resources": {
-   "title": "Resources",
+   "title": "Owner Guides",
    "route": "/resources",
    "items": [
     {
@@ -3165,6 +3647,14 @@
        "a": "<p>Yes. A buyer purchases the mineral or royalty interest subject to the existing lease, meaning the lease terms carry forward and the buyer steps into your position as lessor going forward.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightsutah-com.jpg",
+      "alt": "How to Sell Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3207,7 +3697,7 @@
        "a": "<p>Meaningfully, particularly for producing interests, since value is built on a forward price assumption. A higher price environment generally supports higher valuations, and a lower one the reverse.</p>"
       },
       {
-       "q": "your interest has never produced anything — is it worth anything at all?",
+       "q": "Your interest has never produced anything — is it worth anything at all?",
        "a": "<p>Often yes, especially if it sits near active drilling, though the value reflects probability of future development rather than current cash flow. We can walk through what nearby activity looks like for your specific township.</p>"
       },
       {
@@ -3219,6 +3709,14 @@
        "a": "<p>The underlying method stays the same, but very small fractional interests sometimes carry less buyer interest simply due to the administrative cost of closing relative to the payment size, which is worth keeping in mind when weighing whether to sell.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsutah-com.jpg",
+      "alt": "What Are Mineral Rights Worth? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3253,7 +3751,7 @@
        "a": "<p>Spacing and pooling divide production across every mineral owner in the unit rather than only the acreage directly under the wellbore, so a fractional inherited interest translates into a long decimal. It's normal and doesn't mean your interest is wrong — ask the operator for the unit's pooling order if you want to verify the math.</p>"
       },
       {
-       "q": "your statement shows a lower price than what you see quoted in the news. Is that a mistake?",
+       "q": "Your statement shows a lower price than what you see quoted in the news. Is that a mistake?",
        "a": "<p>Usually not. Uinta waxy crude sells at a real, persistent differential to WTI because of the heating and trucking required to move it, and gas often prices off a regional index rather than Henry Hub. Compare your price against prior months on the same statement rather than against a national headline number.</p>"
       },
       {
@@ -3265,6 +3763,14 @@
        "a": "<p>Yes, and you should. Six to twelve months of statements show volume trend, price trend, and deduction trend, which is exactly what a buyer prices when quoting a range. Bring recent statements to any conversation about selling, whether it's with us or another party.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsutah-com.jpg",
+      "alt": "Reading Your Royalty Statements mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3315,6 +3821,14 @@
        "a": "<p>Yes, if different wells or units cover overlapping or adjoining portions of your interest, particularly common on checkerboard acreage where multiple spacing units can touch the same section. Each division order should be reviewed on its own for the specific decimal it covers.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightsutah-com.jpg",
+      "alt": "Division Orders Explained mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3365,6 +3879,14 @@
        "a": "<p>Common after marriage, divorce, or a legal name change. Bring documentation of the name change, such as a marriage certificate or court order, so the closing paperwork can tie your current identity back to the deed on record.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsutah-com.jpg",
+      "alt": "Documents You Need to Sell mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3419,6 +3941,14 @@
        "a": "<p>Treat that as a serious warning sign. A legitimate offer should be documented clearly enough that you can review it on your own time, share it with an advisor, or compare it against another buyer without relying on memory of a phone call.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsutah-com.jpg",
+      "alt": "How to Spot a Lowball Offer mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3473,6 +4003,14 @@
        "a": "<p>It's structured similarly but conveys only the mineral estate rather than surface property, and typically carries a more detailed legal description tied to the section, township, and range rather than a street address.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsutah-com.jpg",
+      "alt": "Mineral Deeds & Title Transfer mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3523,6 +4061,14 @@
        "a": "<p>Not as a straight dollar comparison, since a lease bonus is only the first of potentially many payments while a sale is a single final number, but we're glad to walk through both so you can weigh them against your own priorities.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsutah-com.jpg",
+      "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3577,6 +4123,14 @@
        "a": "<p>Utah generally taxes capital gains as part of ordinary state income tax rather than through a separate mineral-specific tax, but your CPA should confirm how this applies given your full tax picture and residency.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "Taxes When You Sell Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3631,12 +4185,21 @@
        "a": "<p>No. Mineral valuation relies on production records, title documents, and public data about nearby drilling rather than a physical site visit, since you're valuing the subsurface interest, not the surface itself.</p>"
       }
      ],
+     "noindex": false,
+     "image": {
+      "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsutah-com.jpg",
+      "alt": "How Minerals Are Appraised mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "Plain explanations of deeds, division orders, royalty statements, appraisals and taxes, written so a Utah owner can check each figure against the record."
   },
   "investing": {
-   "title": "Investing",
+   "title": "Mineral Investing",
    "route": "/investing",
    "items": [
     {
@@ -3645,7 +4208,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Mineral Rights as an Investment on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3662,7 +4225,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Mineral Rights as an Investment still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3678,6 +4241,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-mineral-rights-as-an-investment-sellmineralrightsutah-com.jpg",
+      "alt": "Mineral Rights as an Investment mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3686,7 +4257,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate How to Evaluate a Mineral Package on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3703,7 +4274,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>How to Evaluate a Mineral Package still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3719,6 +4290,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightsutah-com.jpg",
+      "alt": "How to Evaluate a Mineral Package mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3727,7 +4306,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Producing vs. Non-Producing for Investors on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3744,7 +4323,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Producing vs. Non-Producing for Investors still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3760,6 +4339,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightsutah-com.jpg",
+      "alt": "Producing vs. Non-Producing for Investors mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3768,7 +4355,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate How Royalty Income Works on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3785,7 +4372,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>How Royalty Income Works still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3801,6 +4388,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsutah-com.jpg",
+      "alt": "How Royalty Income Works mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3809,7 +4404,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Cash Flow vs. Long-Term Value on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3826,7 +4421,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Cash Flow vs. Long-Term Value still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3842,6 +4437,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightsutah-com.jpg",
+      "alt": "Cash Flow vs. Long-Term Value mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3850,7 +4453,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Passive Royalty Income on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3867,7 +4470,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Passive Royalty Income still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3883,6 +4486,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-passive-royalty-income-sellmineralrightsutah-com.jpg",
+      "alt": "Passive Royalty Income mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3891,7 +4502,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate The Real Risks of Mineral Investing on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3908,7 +4519,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>The Real Risks of Mineral Investing still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3924,6 +4535,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-risks-of-mineral-investing-sellmineralrightsutah-com.jpg",
+      "alt": "The Real Risks of Mineral Investing mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3932,7 +4551,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Diversifying a Portfolio With Minerals on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3949,7 +4568,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Diversifying a Portfolio With Minerals still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -3965,6 +4584,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-portfolio-diversification-with-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "Diversifying a Portfolio With Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -3973,7 +4600,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Inflation and Mineral Income on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -3990,7 +4617,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Inflation and Mineral Income still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -4006,6 +4633,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-inflation-and-mineral-income-sellmineralrightsutah-com.jpg",
+      "alt": "Inflation and Mineral Income mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4014,7 +4649,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Locate Direct Minerals vs. Royalty Funds on the Paid Record",
+       "title": "Locate the Investment on the Paid Record",
        "html": "<p>A Utah mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, legal description, estate type, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open.</p>"
       },
       {
@@ -4031,7 +4666,7 @@
       },
       {
        "title": "Reconcile the Model to the Utah Conveyance",
-       "html": "<p>Direct Minerals vs. Royalty Funds still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
+       "html": "<p>Every investment model still depends on the estate described in the recorded chain. The investment file should identify the legal description, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved ownership issue. That reconciliation prevents a clean-looking model from assuming acreage or rights the seller cannot convey.</p>"
       },
       {
        "title": "Stress the Paid Decimal Against Actual Statements",
@@ -4047,12 +4682,21 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/investing/mineral-rights-investing-minerals-vs-royalty-funds-sellmineralrightsutah-com.jpg",
+      "alt": "Direct Minerals vs. Royalty Funds mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "For buyers and holders weighing Utah minerals as an investment: paid decimals, downside cases, heat-and-haul costs and the dates behind every assumption."
   },
   "exchange-1031": {
-   "title": "Exchange 1031",
+   "title": "1031 Exchange Guides",
    "route": "/exchange-1031",
    "items": [
     {
@@ -4061,7 +4705,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Is a 1031 Exchange Right for You? on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4078,7 +4722,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Is a 1031 Exchange Right for You? should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4094,6 +4738,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightsutah-com.jpg",
+      "alt": "Is a 1031 Exchange Right for You? mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4102,7 +4754,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Qualified Intermediaries, Explained on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4119,7 +4771,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Qualified Intermediaries, Explained should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4135,6 +4787,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-qualified-intermediary-basics-sellmineralrightsutah-com.jpg",
+      "alt": "Qualified Intermediaries, Explained mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4143,7 +4803,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place The 45- and 180-Day 1031 Deadlines on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4160,7 +4820,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>The 45- and 180-Day 1031 Deadlines should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4176,6 +4836,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-45-and-180-day-deadlines-sellmineralrightsutah-com.jpg",
+      "alt": "The 45- and 180-Day 1031 Deadlines mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4184,7 +4852,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Defer Taxes on Your Mineral Sale on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4201,7 +4869,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Defer Taxes on Your Mineral Sale should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4217,6 +4885,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-defer-taxes-on-your-mineral-sale-sellmineralrightsutah-com.jpg",
+      "alt": "Defer Taxes on Your Mineral Sale mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4225,7 +4901,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place 1031 Exchange Into Mineral Rights on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4242,7 +4918,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>1031 Exchange Into Mineral Rights should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4258,6 +4934,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-exchange-into-mineral-rights-sellmineralrightsutah-com.jpg",
+      "alt": "1031 Exchange Into Mineral Rights mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4266,7 +4950,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Minerals as 1031 Replacement Property on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4283,7 +4967,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Minerals as 1031 Replacement Property should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4299,6 +4983,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-minerals-as-replacement-property-sellmineralrightsutah-com.jpg",
+      "alt": "Minerals as 1031 Replacement Property mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4307,7 +4999,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Reinvesting Your Mineral Sale Proceeds on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4324,7 +5016,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Reinvesting Your Mineral Sale Proceeds should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4340,6 +5032,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-reinvest-mineral-sale-proceeds-sellmineralrightsutah-com.jpg",
+      "alt": "Reinvesting Your Mineral Sale Proceeds mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4348,7 +5048,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place Partial Exchanges and Boot on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4365,7 +5065,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>Partial Exchanges and Boot should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4381,6 +5081,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-partial-exchange-and-boot-sellmineralrightsutah-com.jpg",
+      "alt": "Partial Exchanges and Boot mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4389,7 +5097,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place 1031 From Real Estate Into Minerals on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4406,7 +5114,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>1031 From Real Estate Into Minerals should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4422,6 +5130,14 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-real-estate-into-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "1031 From Real Estate Into Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     },
     {
@@ -4430,7 +5146,7 @@
      "meta": "",
      "sections": [
       {
-       "title": "Place 1031 From Farmland Into Minerals on the Exchange Calendar",
+       "title": "Put the Exchange on a Written Calendar",
        "html": "<p>Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, Utah property, expected proceeds, closing date, deadlines, and proposed replacement property.</p>"
       },
       {
@@ -4447,7 +5163,7 @@
       },
       {
        "title": "Tie the Exchange File to the Conveyed Utah Interest",
-       "html": "<p>1031 From Farmland Into Minerals should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
+       "html": "<p>The exchange plan should not float free of the tract record. The owner file should show the exact county, legal description, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline.</p>"
       },
       {
        "title": "Document Every Handoff Before Closing",
@@ -4463,9 +5179,18 @@
       }
      ],
      "faqs": [],
+     "noindex": false,
+     "image": {
+      "src": "/images/exchange-1031/mineral-rights-exchange-1031-1031-from-farmland-into-minerals-sellmineralrightsutah-com.jpg",
+      "alt": "1031 From Farmland Into Minerals mineral rights",
+      "width": 1600,
+      "height": 1000
+     },
+     "imageAlt": "",
      "related": []
     }
-   ]
+   ],
+   "meta": "How a Utah mineral sale can sit inside a 1031 exchange calendar, and which tract, title and intermediary records must agree before closing."
   }
  },
  "warnings": [
