@@ -54,7 +54,7 @@
       "the Utah review desk"
     ],
     [
-      "\\bI\\b",
+      "\\bI\\b(?!-\\d)",
       "Sell Mineral Rights Utah"
     ]
   ],
@@ -307,7 +307,7 @@
   ],
   "taxonomy_titles": {
     "situations": "Owner Situations",
-    "interest-types": "Interest Types",
+    "interest-types": "Mineral Interest Types",
     "locations": "Utah Areas",
     "basins": "Utah Basins",
     "resources": "Owner Guides",
