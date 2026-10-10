@@ -50,5 +50,347 @@
   "brand_apple_icon": "/brand/apple-touch-icon.png",
   "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:brightness(0) invert(1)!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#c96021;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px),(hover:none) and (pointer:coarse){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/vernal-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/duchesne-county": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/roosevelt-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/jensen-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/myton-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/fort-duchesne-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/maeser-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/whiterocks-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/lapoint-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/randlett-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/neola-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/bluebell-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/altamont-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/tabiona-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/carbon-county": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/grand-county": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/aneth-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/navajo-mountain-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/halls-crossing-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/price-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/wellington-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/carbonville-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/spring-glen-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/scofield-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/west-wood-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/kenilworth-ut": {
+      "src": "/ours/locations/regional-blanding-ut.jpg",
+      "alt": "Regional view: Blanding, Utah",
+      "credit": "Blanding, Utah. Regional Utah photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg\" rel=\"noopener\">formulanone / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\" rel=\"noopener\">CC BY-SA 2.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Utah",
+      "source": "https://commons.wikimedia.org/wiki/File%3ABlanding_Utah_Aerial_%2849806542326%29.jpg"
+    },
+    "/locations/uintah-county": {
+      "src": "/ours/locations/sell-mineral-rights-uintah-county-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Uintah County, UT"
+    },
+    "/locations/naples-ut": {
+      "src": "/ours/locations/sell-mineral-rights-naples-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Naples, UT"
+    },
+    "/locations/duchesne-ut": {
+      "src": "/ours/locations/sell-mineral-rights-duchesne-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Duchesne, UT"
+    },
+    "/locations/ballard-ut": {
+      "src": "/ours/locations/sell-mineral-rights-ballard-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ballard, UT"
+    },
+    "/locations/bonanza-ut": {
+      "src": "/ours/locations/sell-mineral-rights-bonanza-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bonanza, UT"
+    },
+    "/locations/san-juan-county": {
+      "src": "/ours/locations/sell-mineral-rights-san-juan-county-nm.jpg",
+      "alt": "Local view for Sell Mineral Rights in San Juan County, UT"
+    },
+    "/locations/emery-county": {
+      "src": "/ours/locations/sell-mineral-rights-emery-county-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Emery County, UT"
+    },
+    "/locations/moab-ut": {
+      "src": "/ours/locations/sell-mineral-rights-moab-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Moab, UT"
+    },
+    "/locations/monticello-ut": {
+      "src": "/ours/locations/sell-mineral-rights-monticello-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Monticello, UT"
+    },
+    "/locations/blanding-ut": {
+      "src": "/ours/locations/sell-mineral-rights-blanding-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Blanding, UT"
+    },
+    "/locations/montezuma-creek-ut": {
+      "src": "/ours/locations/sell-mineral-rights-montezuma-creek-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Montezuma Creek, UT"
+    },
+    "/locations/bluff-ut": {
+      "src": "/ours/locations/sell-mineral-rights-bluff-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bluff, UT"
+    },
+    "/locations/mexican-hat-ut": {
+      "src": "/ours/locations/sell-mineral-rights-mexican-hat-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Mexican Hat, UT"
+    },
+    "/locations/la-sal-ut": {
+      "src": "/ours/locations/sell-mineral-rights-la-sal-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in La Sal, UT"
+    },
+    "/locations/spanish-valley-ut": {
+      "src": "/ours/locations/sell-mineral-rights-spanish-valley-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Spanish Valley, UT"
+    },
+    "/locations/oljato-monument-valley-ut": {
+      "src": "/ours/locations/sell-mineral-rights-oljato-monument-valley-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Oljato-Monument Valley, UT"
+    },
+    "/locations/halchita-ut": {
+      "src": "/ours/locations/sell-mineral-rights-halchita-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Halchita, UT"
+    },
+    "/locations/tselakai-dezza-ut": {
+      "src": "/ours/locations/sell-mineral-rights-tselakai-dezza-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Tselakai Dezza, UT"
+    },
+    "/locations/white-mesa-ut": {
+      "src": "/ours/locations/sell-mineral-rights-white-mesa-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in White Mesa, UT"
+    },
+    "/locations/helper-ut": {
+      "src": "/ours/locations/sell-mineral-rights-helper-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Helper, UT"
+    },
+    "/locations/east-carbon-ut": {
+      "src": "/ours/locations/sell-mineral-rights-east-carbon-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in East Carbon, UT"
+    },
+    "/locations/clear-creek-ut": {
+      "src": "/ours/locations/sell-mineral-rights-clear-creek-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Clear Creek, UT"
+    },
+    "/locations/castle-dale-ut": {
+      "src": "/ours/locations/sell-mineral-rights-castle-dale-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Castle Dale, UT"
+    },
+    "/locations/huntington-ut": {
+      "src": "/ours/locations/sell-mineral-rights-huntington-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Huntington, UT"
+    },
+    "/locations/orangeville-ut": {
+      "src": "/ours/locations/sell-mineral-rights-orangeville-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Orangeville, UT"
+    },
+    "/locations/ferron-ut": {
+      "src": "/ours/locations/sell-mineral-rights-ferron-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Ferron, UT"
+    },
+    "/locations/emery-ut": {
+      "src": "/ours/locations/sell-mineral-rights-emery-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Emery, UT"
+    },
+    "/locations/clawson-ut": {
+      "src": "/ours/locations/sell-mineral-rights-clawson-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Clawson, UT"
+    },
+    "/locations/elmo-ut": {
+      "src": "/ours/locations/sell-mineral-rights-elmo-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Elmo, UT"
+    },
+    "/locations/cleveland-ut": {
+      "src": "/ours/locations/sell-mineral-rights-cleveland-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cleveland, UT"
+    },
+    "/locations/green-river-ut": {
+      "src": "/ours/locations/sell-mineral-rights-green-river-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Green River, UT"
+    },
+    "/locations/castle-valley-ut": {
+      "src": "/ours/locations/sell-mineral-rights-castle-valley-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Castle Valley, UT"
+    },
+    "/locations/thompson-springs-ut": {
+      "src": "/ours/locations/sell-mineral-rights-thompson-springs-ut.jpg",
+      "alt": "Local view for Sell Mineral Rights in Thompson Springs, UT"
+    }
+  }
 }
